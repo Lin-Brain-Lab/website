@@ -37,7 +37,7 @@
 				in:fade={{ duration: 300 }}
 				out:fade={{ duration: 300 }}
 			>
-				<img {src} alt={src} class="m-auto h-full rounded-md object-cover" />
+				<img {src} alt={src} class="m-auto h-full rounded-md bg-base-200 object-cover" />
 			</div>
 		{/if}
 	{/each}
