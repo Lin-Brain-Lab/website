@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	@apply relative font-sans text-base-content;
+}
+
+html,
+body,
+main {
+	@apply absolute m-0 h-full w-full overflow-hidden bg-base-100 p-0;
+}
+
+*::-webkit-scrollbar {
+	@apply hidden;
+}
