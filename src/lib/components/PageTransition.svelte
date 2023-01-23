@@ -1,6 +1,6 @@
-<script>
-	import { page } from "$app/stores";
+<script lang="ts">
 	import { afterNavigate, beforeNavigate } from "$app/navigation";
+	import { page } from "$app/stores";
 	import { fade } from "svelte/transition";
 
 	let show_content = true;

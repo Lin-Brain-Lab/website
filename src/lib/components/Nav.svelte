@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { page } from "$app/stores";
+	import { preload } from "$lib/preload";
+	import { onMount } from "svelte";
 	import Icon from "@iconify/svelte";
 
 	const navigation: Item[] = [
@@ -29,6 +31,13 @@
 	type Item = [string, string] | [string, string, Item[]];
 
 	let toggle = false;
+
+	onMount(() => {
+		preload(
+			navigation.map((x) => x[1]),
+			1000,
+		);
+	});
 </script>
 
 <nav class="navbar z-10">
@@ -48,6 +57,9 @@
 						{href}
 						class="border border-transparent"
 						class:!border-primary={$page.url.pathname.startsWith(href)}
+						on:mouseenter={() => {
+							preload([href, ...(children || []).map((x) => x[1])], 0);
+						}}
 					>
 						{name}
 						{#if children?.length}
@@ -62,8 +74,9 @@
 										{href}
 										class="border border-transparent"
 										class:!border-primary={$page.url.pathname.startsWith(href)}
-										>{name}</a
 									>
+										{name}
+									</a>
 								</li>
 							{/each}
 						</ul>
