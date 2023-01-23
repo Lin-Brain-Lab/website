@@ -23,7 +23,13 @@
 	});
 </script>
 
-<div class="h-40 w-full rounded-md lg:h-60">
+<svelte:head>
+	{#each images as src}
+		<link rel="preload" href={src} as="image" />
+	{/each}
+</svelte:head>
+
+<div class="h-40 w-full rounded-md md:h-60">
 	{#each images as src, i (src)}
 		{#if i === current}
 			<div
