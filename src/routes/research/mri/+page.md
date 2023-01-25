@@ -13,11 +13,11 @@ Magnetic resonance imaging (MRI) has millimeter spatial resolution and versatile
 We are interested in advancing the MRI technology in order to improve its spatiotemporal resolution and sensitivity. We aim at developing a tailored combination of receiver coil array, spatial encoding magnetic fields, main magnetic field, pulse sequence, and image reconstruction algorithms in order to optimize MRI in different applications.
 
 <Carousel images={[
-    "https://linbrainlab.org/wp-content/uploads/smsini.png",
-    "https://linbrainlab.org/wp-content/uploads/probes_940.png",
-    "https://linbrainlab.org/wp-content/uploads/sags_shimming-817x313.png",
-    "https://linbrainlab.org/wp-content/uploads/mde_coord.png",
-    "https://linbrainlab.org/wp-content/uploads/rsa.png",
+    "/images/smsini.webp",
+    "/images/probes_940.webp",
+    "/images/sags_shimming-817x313.webp",
+    "/images/mde_coord.webp",
+    "/images/rsa.webp",
 ]} />
 
 ## Spatial encoding using nonlinear gradient coils

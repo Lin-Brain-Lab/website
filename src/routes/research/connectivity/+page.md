@@ -11,13 +11,13 @@ title: Connectivity
 The completion of cognition and tasks requires the orchestration of spatiotemporal processes distributed in the brain. Structural connectivity provides the fundamental substrate of this communication. Functional connectivity and effective connective respectively elucidate the correlation and directional information flow subserving the neuronal network. We use magnetic resonance imaging (MRI),  magnetoencephalography (MEG), and electroencephalogrqphy (EEG) to study the structural, functional, and effective connectivity at the system level.
 
 <Carousel images={[
-    "https://linbrainlab.org/wp-content/uploads/cortical_depth_fc.png",
-    "https://linbrainlab.org/wp-content/uploads/ini_granger-640x245.png",
-    "https://linbrainlab.org/wp-content/uploads/vowel_fmri_sem.png",
-    "https://linbrainlab.org/wp-content/uploads/ini_freq_granger-640x245.png",
-    "https://linbrainlab.org/wp-content/uploads/chaplin_fmri2.png",
-    "https://linbrainlab.org/wp-content/uploads/motor_sem.png",
-    "https://linbrainlab.org/wp-content/uploads/epilepsy_granger-1-640x245.png"
+    "/images/cortical_depth_fc.webp",
+    "/images/ini_granger-640x245.webp",
+    "/images/vowel_fmri_sem.webp",
+    "/images/ini_freq_granger-640x245.webp",
+    "/images/chaplin_fmri2.webp",
+    "/images/motor_sem.webp",
+    "/images/epilepsy_granger-1-640x245.webp"
 ]} />
 
 ## Selected publication

@@ -13,8 +13,8 @@ Magnetoencephalography (MEG) and electroencephalography (EEG) are  methods of st
 Our lab is interested in developing MEG and EEG methods in order to better understand how human brain works. Specific projects include MEG/EEG source localization, neuronal oscillations, and multi-modal imaging integration (MEG/EEG/MRI).
 
 <Carousel images={[
-    "https://linbrainlab.org/wp-content/uploads/lorazepam_meg.png",
-    "https://linbrainlab.org/wp-content/uploads/meg_cent.png",
+    "/images/lorazepam_meg.webp",
+    "/images/meg_cent.webp",
 ]} />
 
 ## Selected publication

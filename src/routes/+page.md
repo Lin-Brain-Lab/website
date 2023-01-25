@@ -9,15 +9,15 @@ title: Lin Brain Lab
 # {title}
 
 <Carousel images={[
-    "https://linbrainlab.org/wp-content/uploads/cortical_depth_fc.png",
-    "https://linbrainlab.org/wp-content/uploads/smsini.png",
-    "https://linbrainlab.org/wp-content/uploads/probes_940.png",
-    "https://linbrainlab.org/wp-content/uploads/probe_phantom_recon.png",
-    "https://linbrainlab.org/wp-content/uploads/chaplin_fmri2.png",
-    "https://linbrainlab.org/wp-content/uploads/rsa.png",
-    "https://linbrainlab.org/wp-content/uploads/v1_latency_annot.png",
-    "https://linbrainlab.org/wp-content/uploads/granger_fmri_spec.png",
-    "https://linbrainlab.org/wp-content/uploads/patloc_om_kspace.png"
+    "/images/cortical_depth_fc.webp",
+    "/images/smsini.webp",
+    "/images/probes_940.webp",
+    "/images/probe_phantom_recon.webp",
+    "/images/chaplin_fmri2.webp",
+    "/images/rsa.webp",
+    "/images/v1_latency_annot.webp",
+    "/images/granger_fmri_spec.webp",
+    "/images/patloc_om_kspace.webp"
 ]} />
 
 Complex behavior and cognitive functions of the human brain are suggested to be “mapped at the level of multi-focal neural systems rather than specific anatomical sites, giving rise to brain-behavior relationships that are both localized and distributed”. Further understanding of these brain mechanisms requires both structural and functional knowledge to answer (i) where are the foci of activity, (ii) when are these areas activated and what is the temporal sequence of activation, and (iii) how does the information flow in large-scale neural networks during the execution of cognitive and behavioral tasks.  Noninvasive medical imaging tools are able to localize brain activities at high spatial and temporal resolution. Quantitative modeling to interpret these data can suggest how distributed neuronal interactions underlying perception, cognition, and behaviors emerge and change over time.
