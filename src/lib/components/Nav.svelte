@@ -40,7 +40,7 @@
 	});
 </script>
 
-<nav class="navbar z-10">
+<nav class="navbar z-10 h-[4.5rem] rounded-b-lg transition-all hover:bg-base-100 hover:shadow-md">
 	<div class="flex-1">
 		<a class="btn-ghost btn text-xl normal-case" href="/">Lin Brain Lab</a>
 	</div>

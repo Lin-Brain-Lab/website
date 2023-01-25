@@ -11,11 +11,11 @@
 		<Background />
 	</div>
 
-	<div class="m-auto h-16 w-full max-w-3xl">
+	<div class="m-auto h-[4.5rem] w-full max-w-3xl">
 		<Nav />
 	</div>
 
-	<div class="m-auto flex h-[calc(100%-4rem)] w-full max-w-3xl flex-col overflow-auto">
+	<div class="m-auto flex h-[calc(100%-4.5rem)] w-full max-w-3xl flex-col overflow-auto">
 		<div class="w-full flex-1 p-4">
 			<PageTransition>
 				<slot />
