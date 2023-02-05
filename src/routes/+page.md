@@ -9,7 +9,7 @@ title: Lin Brain Lab
 # {title}
 
 <Carousel images={[
-    "/images/lab_modalities.png",
+    "/images/intro_modalities.png",
     "/images/cortical_depth_fc.webp",
     "/images/smsini.webp",
     "/images/chaplin_fmri2.webp",
