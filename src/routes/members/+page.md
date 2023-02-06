@@ -25,7 +25,7 @@ Hsin-Ju Lee, Ph.D. (University of Toronto and Sunnybrook Research Institute; 201
 
 ## Alumni
 
-Mohamed Ghaith Majja[ni](https://app.slack.com/team/U03VDTCSDMK)   (coop student; University of Waterloo, fall 2022)
+Mohamed Ghaith Majjani (coop student; University of Waterloo; fall 2022)
 
 Kaihua Chen (China Agricultural University; summer 2022)
 
