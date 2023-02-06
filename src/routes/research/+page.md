@@ -4,6 +4,6 @@ title: Research
 
 # {title}
 
-- [Magnetic resonance imaging (MRI)](/research/mri/)
-- [Magnetoencephalography (MEG) and electroencephalography (EEG)](/research/meg-and-eeg/)
-- [Connectivity](/research/connectivity/)
+- [Neuroimaging technology development](/research/neurotech/)
+- [Clinical applications](/research/clinical/)
+- [Neuroscience studies](/research/neuroscience/)
