@@ -8,7 +8,7 @@ title: Neuroimaging technologies
 
 # {title}
 
-We enthisatically translate our methodologies to neurological and psychiatric health care. 
+We develop cutting-edge non-invasive and invasive brain imaging and neuromodulation methods. 
 
 <Carousel images={[
     "/images/motor_sem.webp",
@@ -20,5 +20,7 @@ Magnetic resonance imaging (MRI) has millimeter spatial resolution and versatile
 
 ## Electroencephalography (EEG) and magnetoencephalography (MEG)
 EEG and MEG are methods of studying the neural activities non-invasively using extracranial measurements of magnetic fields and electric potentials, respectively. We continuously develop EEG and MEEG methods in order to better understand how human brain works via studies of MEG/EEG source localization, neuronal oscillations, and multi-modal (EEG/MEG/MRI) integration.
+
+We also develop methods of analyzing stereo-EEG (SEEG), invasive recording of multple electrodes implanted in medically refractory patients. These data allows for unprecedented spatoitemporal resolution of neuronal activities.
 ## Transcranial magnetic stimulation (TMS)
 TMS stimulates neural populations at the cortex via transient and strong magnetic pulses delivied by coils outside the head. We use neuroimaging (MRI/EEG/MEG) and navigation systems to excite and inhibit neural activity in a spatiotemporally accurate way.
