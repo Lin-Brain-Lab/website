@@ -30,10 +30,11 @@
 			[
 				["Members", "/join/join_members"],
 				["Work with us", "/join/join_recruit"],
-				["Study recruitment", "/join/join_study"],				
+				["Study recruitment", "/join/join_study"],
+			],
 		],
-		["Tools", "/tools", []],
-		["Members", "/members", []],
+		["Tools", "/tools"],
+		["Members", "/members"],
 	];
 
 	type Item = [string, string] | [string, string, Item[]];
