@@ -24,3 +24,6 @@ EEG and MEG are methods of studying the neural activities non-invasively using e
 We also develop methods of analyzing SEEG, invasive recording of multple electrodes implanted in medically refractory patients. These data allows for unprecedented spatoitemporal resolution of neuronal activities.
 ## Transcranial magnetic stimulation (TMS)
 TMS stimulates neural populations at the cortex via transient and strong magnetic pulses delivied by coils outside the head. We use neuroimaging (MRI/EEG/MEG) and navigation systems to excite and inhibit neural activity in a spatiotemporally accurate way.
+
+## Computational neural models
+With the rich datasets of brain activites characterized by neuronal, hemodynamic, and metabolic measures, we develop computational tools to reveal correlations and causal modulations between brain and behaviors. 
