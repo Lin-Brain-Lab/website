@@ -1,0 +1,4 @@
+---
+title: Lab members
+
+{title}

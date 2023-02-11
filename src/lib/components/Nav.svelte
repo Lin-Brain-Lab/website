@@ -24,6 +24,14 @@
 				["Book chapters/thesis", "/publications/book-chapters-thesis"],
 			],
 		],
+		[
+			"Join",
+			"/join",
+			[
+				["Members", "/join/join_members"],
+				["Work with us", "/join/join_recruit"],
+				["Study recruitment", "/join/join_study"],				
+		],
 		["Tools", "/tools", []],
 		["Members", "/members", []],
 	];
