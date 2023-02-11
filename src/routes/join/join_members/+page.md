@@ -1,4 +1,5 @@
 ---
 title: Lab members
+---
 
 {title}

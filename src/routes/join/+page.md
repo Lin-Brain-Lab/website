@@ -1,6 +1,6 @@
 ---
 title: Join
-
+---
 # {title}
 
 ## Current members
