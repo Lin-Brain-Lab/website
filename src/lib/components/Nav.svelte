@@ -29,7 +29,7 @@
 			"/join",
 			[
 				["Members", "/join/join_members"],
-				["Work with us", "/join/join_recruit"],
+				["Work with us", "/join/join_work"],
 				["Study recruitment", "/join/join_study"],
 			],
 		],
