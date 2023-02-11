@@ -34,7 +34,6 @@
 			],
 		],
 		["Tools", "/tools"],
-		["Members", "/members"],
 	];
 
 	type Item = [string, string] | [string, string, Item[]];
