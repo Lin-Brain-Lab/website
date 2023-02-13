@@ -16,7 +16,9 @@ We enthisatically translate our methodologies to neurological and psychiatric he
     "/images/Slide9.png",
     "/images/Slide10.png",
     "/images/Slide11.png",
-    "/images/lorazepam_meg.webp"
+    "/images/Slide13.png",
+    "/images/lorazepam_meg.webp",
+    "/images/epilepsy_granger-1-640x245.webp",
 ]} />
 
 ## Epilepsy
