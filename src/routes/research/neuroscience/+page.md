@@ -1,5 +1,5 @@
 ---
-title: Neuroscience studies
+title: Neuroscience studies 
 ---
 
 <script lang="ts">
@@ -11,6 +11,10 @@ title: Neuroscience studies
 We enthisatically translate our methodologies to neurological and psychiatric health care. 
 
 <Carousel images={[
+    "/images/Slide12",
+    "/images/Slide13",
+    "/images/Slide14",
+    "/images/Slide15",
     "/images/cortical_depth_fc.webp",
     "/images/ini_granger-640x245.webp",
     "/images/vowel_fmri_sem.webp",
