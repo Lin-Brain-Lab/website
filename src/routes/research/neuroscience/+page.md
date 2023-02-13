@@ -12,7 +12,6 @@ We enthisatically translate our methodologies to neurological and psychiatric he
 
 <Carousel images={[
     "/images/Slide12.png",
-    "/images/Slide13.png",
     "/images/Slide14.png",
     "/images/Slide15.png",
     "/images/cortical_depth_fc.webp",
