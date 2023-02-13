@@ -16,12 +16,6 @@ We enthisatically translate our methodologies to neurological and psychiatric he
     "/images/Slide14.png",
     "/images/Slide15.png",
     "/images/cortical_depth_fc.webp",
-    "/images/ini_granger-640x245.webp",
-    "/images/vowel_fmri_sem.webp",
-    "/images/ini_freq_granger-640x245.webp",
-    "/images/chaplin_fmri2.webp",
-    "/images/motor_sem.webp",
-    "/images/epilepsy_granger-1-640x245.webp"
 ]} />
 
 ## Brain activities under complex naturalistic stimuli
