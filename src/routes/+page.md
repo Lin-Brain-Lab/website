@@ -16,7 +16,6 @@ title: Lin Brain Lab
     "/images/Slide10.png",
     "/images/Slide12.png",
     "/images/Slide14.png",
-    "/images/Slide1.png",
     "/images/Slide3.png",
     "/images/Slide5.png",
     "/images/Slide7.png",
