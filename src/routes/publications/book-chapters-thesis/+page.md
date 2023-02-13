@@ -1,5 +1,5 @@
 ---
-title: Book Chapters/Thesis
+title: Book chapters and thesis
 ---
 
 # {title}
