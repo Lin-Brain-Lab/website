@@ -1,10 +1,10 @@
 ---
-title: Journal Papers
+title: Journal papers
 ---
 
 # {title}
 
-[Listing in Pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=%28lin%20fa-hsuan%20[au]%29)
+[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed?term=%28lin%20fa-hsuan%20[au]%29)
 
 [ResearcherID (G-6988-2012)](http://www.researcherid.com/rid/G-6988-2012)
 
