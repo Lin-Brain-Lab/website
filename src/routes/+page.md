@@ -24,7 +24,7 @@ title: Lin Brain Lab
     "/images/Slide11.png",
     "/images/Slide13.png",
     "/images/Slide15.png",
-} />
+]} />
 
 
 Our lab focuses on the development and application of human neuroimaging and neuromodulation methods and the translation of these cutting-edge tools to neuroscience studies and clinical applications. 
