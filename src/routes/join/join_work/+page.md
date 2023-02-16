@@ -4,8 +4,8 @@ title: Work with us
 
 # {title}
 
-## Postdoctoral fellows and full-time researchers/technician/engineers
-We are open to recruit postdoctoral fellows and full-time researchers, technicians, and engineers. In particular, we enthusiastically to find colleagues to build devices, develop computational models, and reveal neural substrates correlated brain function and dysfunction. 
+## Postdoctoral fellows and full-time researchers/technicians/engineers
+We are open to recruit postdoctoral fellows and full-time researchers, technicians, and engineers. In particular, we enthusiastically identify colleagues to build devices, develop computational models, and reveal neural substrates correlated with brain function and dysfunction. 
 Some job postings are [here](https://sunnybrook.ca/employment/?d=16). Can't find a post that fits you? Don't hesitate to contact us if you think you are a great one. 
 
 ## Graduate students
