@@ -14,7 +14,7 @@ title: Journal papers
 
 **2022**
 
-86\. “[Processing of an audiobook in the human brain is shaped by cultural family background](http://linbrainlab.org/wp-content/uploads/reprint_audiobook_fmri_brainsci-12-00649.pdf)“, Maria Hakonen, Arsi Ikäheimonen, Annika Hultén, Janne Kauttonen, Miika Koskinen, Fa-Hsuan Lin, Anastasia Lowe, Mikko Sams, Iiro P. Jääskeläinen, _[Brain Sciences (2022),](https://www.mdpi.com/2076-3425/12/5/649) [Vol.12 (5), 649. doi: 1](https://www.sciencedirect.com/science/article/pii/S1053811920303967?via%3Dihub)10.3390/brainsci12050649._
+86\. “[Processing of an audiobook in the human brain is shaped by cultural family background](https://drive.google.com/file/d/1m1n0HsG2sOR8ywWE8Onf23B1D3K4zL81/view?usp=share_link)“, Maria Hakonen, Arsi Ikäheimonen, Annika Hultén, Janne Kauttonen, Miika Koskinen, Fa-Hsuan Lin, Anastasia Lowe, Mikko Sams, Iiro P. Jääskeläinen, _[Brain Sciences (2022),](https://www.mdpi.com/2076-3425/12/5/649) [Vol.12 (5), 649. doi: 1](https://www.sciencedirect.com/science/article/pii/S1053811920303967?via%3Dihub)10.3390/brainsci12050649._
 
 85\. “Ballistocardiogram suppression in concurrent EEG-MRI by dynamic modeling of heartbeats”, Hsin-Ju Lee, Simon J Graham, Wen-Jui Kuo, Fa-Hsuan Lin, _Human Brain Mapping (2022), in press._
 
