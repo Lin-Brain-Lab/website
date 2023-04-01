@@ -49,5 +49,6 @@
 		"*.{ts,js,json,yaml,yml,svelte,html,css}": [
 			"prettier --write"
 		]
-	}
+	},
+	"packageManager": "pnpm@8.1.0"
 }
