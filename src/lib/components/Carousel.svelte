@@ -21,6 +21,15 @@
 			clearInterval(interval);
 		}
 	});
+
+	let fullscreen: string | null = null;
+	function spotlight(src?: string) {
+		if (fullscreen) {
+			fullscreen = null;
+		} else if (src) {
+			fullscreen = src;
+		}
+	}
 </script>
 
 <svelte:head>
@@ -37,7 +46,13 @@
 				in:fade={{ duration: 300 }}
 				out:fade={{ duration: 300 }}
 			>
-				<img {src} alt={src} class="m-auto h-full rounded-md bg-base-200 object-cover" />
+				<!-- svelte-ignore a11y-click-events-have-key-events -->
+				<img
+					{src}
+					alt={src}
+					class="m-auto h-full cursor-pointer rounded-md bg-base-200 object-cover"
+					on:click={() => spotlight(src)}
+				/>
 			</div>
 		{/if}
 	{/each}
@@ -54,3 +69,25 @@
 		</button>
 	{/each}
 </div>
+
+{#if fullscreen}
+	<!-- svelte-ignore a11y-click-events-have-key-events -->
+	<div
+		class="fixed left-0 top-0 z-[100] h-screen w-screen p-4 backdrop-brightness-50"
+		on:click={() => spotlight()}
+		in:fade={{ duration: 100 }}
+		out:fade={{ duration: 100 }}
+	>
+		<div class="flex h-full w-full items-center justify-center">
+			<img
+				src={fullscreen}
+				alt={fullscreen}
+				class="m-auto max-h-full max-w-full cursor-pointer rounded-lg object-contain"
+				on:click={() => {
+					fullscreen && window.open(fullscreen, "_blank");
+				}}
+				title="Open in new tab"
+			/>
+		</div>
+	</div>
+{/if}
