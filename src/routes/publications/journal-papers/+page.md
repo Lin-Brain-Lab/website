@@ -12,11 +12,15 @@ title: Journal papers
 
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
+**2023**
+
+87\. “[Editorial: Methods and Protocols in Brain Stimulation]”, Sandra Carvalho, Fa-Hsuan Lin, [_Frontiers in Human Neuroscience (2023), 17. doi: 10.3389/fnhum.2023.1208260](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1208260/full)._
+
 **2022**
 
-86\. “[Processing of an audiobook in the human brain is shaped by cultural family background](https://drive.google.com/file/d/1m1n0HsG2sOR8ywWE8Onf23B1D3K4zL81/view?usp=share_link)“, Maria Hakonen, Arsi Ikäheimonen, Annika Hultén, Janne Kauttonen, Miika Koskinen, Fa-Hsuan Lin, Anastasia Lowe, Mikko Sams, Iiro P. Jääskeläinen, _[Brain Sciences (2022),](https://www.mdpi.com/2076-3425/12/5/649) [Vol.12 (5), 649. doi: 1](https://www.sciencedirect.com/science/article/pii/S1053811920303967?via%3Dihub)10.3390/brainsci12050649._
+86\. “[Processing of an audiobook in the human brain is shaped by cultural family background](https://drive.google.com/file/d/1m1n0HsG2sOR8ywWE8Onf23B1D3K4zL81/view?usp=share_link)“, Maria Hakonen, Arsi Ikäheimonen, Annika Hultén, Janne Kauttonen, Miika Koskinen, Fa-Hsuan Lin, Anastasia Lowe, Mikko Sams, Iiro P. Jääskeläinen, _[Brain Sciences (2022),](https://www.mdpi.com/2076-3425/12/5/649) [Vol.12 (5), 649. doi: 10.3390/brainsci12050649](https://www.sciencedirect.com/science/article/pii/S1053811920303967?via%3Dihub)._
 
-85\. “Ballistocardiogram suppression in concurrent EEG-MRI by dynamic modeling of heartbeats”, Hsin-Ju Lee, Simon J Graham, Wen-Jui Kuo, Fa-Hsuan Lin, _Human Brain Mapping (2022), in press._
+85\. “Ballistocardiogram suppression in concurrent EEG-MRI by dynamic modeling of heartbeats”, Hsin-Ju Lee, Simon J Graham, Wen-Jui Kuo, Fa-Hsuan Lin, [_Human Brain Mapping_ (2022), Vol. 43. pp. 4444-4457, doi: doi.org/10.1002/hbm.25965](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25965)._
 
 **2021**
 
@@ -30,23 +34,23 @@ title: Journal papers
 
 **2020**
 
-80\. “[Concurrent electrophysiological and hemodynamic measurements of evoked neural oscillations in human visual cortex using sparsely interleaved fast fMRI and EEG](http://linbrainlab.org/wp-content/uploads/eegmri_ssvep_ni2020.pdf)“, Hsin-Ju Lee, Shu-Yu Huang, Wen-Jui Kuo, Simon J. Graham, Ying-Hua Chu, Matti Stenroos, Fa-Hsuan Lin, [_NeuroImage,_ (2020), Vol. 217, 116910. doi: 10.1016/j.neuroimage.2020.116910.](https://www.sciencedirect.com/science/article/pii/S1053811920303967?via%3Dihub)
+80\. “[Concurrent electrophysiological and hemodynamic measurements of evoked neural oscillations in human visual cortex using sparsely interleaved fast fMRI and EEG](https://drive.google.com/file/d/18mDPF2yPEy8bTQbm6r-dxR0I039Hp_x3/view?usp=share_link)“, Hsin-Ju Lee, Shu-Yu Huang, Wen-Jui Kuo, Simon J. Graham, Ying-Hua Chu, Matti Stenroos, Fa-Hsuan Lin, [_NeuroImage,_ (2020), Vol. 217, 116910. doi: 10.1016/j.neuroimage.2020.116910.](https://www.sciencedirect.com/science/article/pii/S1053811920303967?via%3Dihub)
 
-79\. “[Impact of physiological noise in characterizing the functional MRI default-mode network in Alzheimer’s disease](http://linbrainlab.org/wp-content/uploads/physiological_noise_AD_fMRI_jcbfm2020.pdf)“, Yi-Tien Li, Chun-Yuan Chang, Yi-Cheng Hsu, Jong-Ling Fuh, Wen-Jui Kuo, Jhy-Neng Yeh, Fa-Hsuan Lin. [_Journal of Cerebral Blood Flow and Metabolism_, Vol . 41 (1), pp. 166-181. doi: 10.1177/0271678X19897442](https://journals.sagepub.com/doi/10.1177/0271678X19897442?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)
+79\. “[Impact of physiological noise in characterizing the functional MRI default-mode network in Alzheimer’s disease](https://drive.google.com/file/d/1P5cMxhDaoYKhXOqMTE504EgvMnGtUm5Z/view?usp=share_link)“, Yi-Tien Li, Chun-Yuan Chang, Yi-Cheng Hsu, Jong-Ling Fuh, Wen-Jui Kuo, Jhy-Neng Yeh, Fa-Hsuan Lin. [_Journal of Cerebral Blood Flow and Metabolism_, Vol . 41 (1), pp. 166-181. doi: 10.1177/0271678X19897442](https://journals.sagepub.com/doi/10.1177/0271678X19897442?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)
 
-78\. “[An orthogonal shim coil for 3-Tesla brain imaging](http://linbrainlab.org/wp-content/uploads/orthogonal_shim_mrm2020.pdf)“, Jiazheng Zhou, Jason P Stockmann, Nicolas Arango, Thomas Witzel, Klaus Scheffler, Lawrence L Wald, and Fa-Hsuan Lin, _Magnetic Resonance in Medicine,_ (2020), Vol. 83 (4), pp. 1499-1511. doi: 10.1002/mrm.28010.
+78\. “[An orthogonal shim coil for 3-Tesla brain imaging](https://drive.google.com/file/d/1-IR0dN3__2T28CmJBN1lMtUIT_FkLBfS/view?usp=share_link)“, Jiazheng Zhou, Jason P Stockmann, Nicolas Arango, Thomas Witzel, Klaus Scheffler, Lawrence L Wald, and Fa-Hsuan Lin, _Magnetic Resonance in Medicine,_ (2020), Vol. 83 (4), pp. 1499-1511. doi: 10.1002/mrm.28010.
 
 **2019**
 
-77\. “[Premature white matter aging in patients with right mesial temporal lobe epilepsy: A machine learning approach based on diffusion MRI](http://linbrainlab.org/wp-content/uploads/reprint_dsi_epilepsy_niclinical2019.pdf)“, Chang-Le Chen, Yao-Chia Shih, Horng-Huei Liou, Yung-Chin Hsu, Fa-Hsuan Lin, Wen-Yih Isaac Tseng, _NeuroImage: Clinical,_ (2019), Vol. 24, 102033.
+77\. “[Premature white matter aging in patients with right mesial temporal lobe epilepsy: A machine learning approach based on diffusion MRI](https://drive.google.com/file/d/1ODg7Xz7YSggsMCjcD1eaDPh3Qp8PQ6hj/view?usp=share_link)“, Chang-Le Chen, Yao-Chia Shih, Horng-Huei Liou, Yung-Chin Hsu, Fa-Hsuan Lin, Wen-Yih Isaac Tseng, _NeuroImage: Clinical,_ (2019), Vol. 24, 102033.
 
-76\. “[Reduction of lipid contamination in magnetic resonance spectroscopic imaging using signal space projection](http://35.203.18.157/wp-content/uploads/reprint_ssp_mrsi_mrm2018.pdf)“, Shang-Yueh Tsai, Yi-Ru Lin, Hsin-Yu Lin, Fa-Hsuan Lin, _Magnetic Resonance in Medicine,_ (2019), Vol. 81 (3), pp. 1486-1498
+76\. “[Reduction of lipid contamination in magnetic resonance spectroscopic imaging using signal space projection](https://drive.google.com/file/d/1ecAXzGeGJVfMOMnCayKGBNHo3H7Fef8C/view?usp=share_link)“, Shang-Yueh Tsai, Yi-Ru Lin, Hsin-Yu Lin, Fa-Hsuan Lin, _Magnetic Resonance in Medicine,_ (2019), Vol. 81 (3), pp. 1486-1498
 
-75\. “[A flexible and modular receiver coil array for magnetic resonance imaging](http://linbrainlab.org/wp-content/uploads/reprint_tasso_coil_ieeetmi2019.pdf)“, Jhy-Neng Tasso Yeh, Jo-Fu Lotus Lin, Yi-Tien Li,  Fa-Hsuan Lin, , _IEEE Transactions on Medical Imaging_, (2019), Vol. 38 (3), pp. 824-833, doi: 10.1109/TMI.2018.2873317s.
+75\. “[A flexible and modular receiver coil array for magnetic resonance imaging](https://drive.google.com/file/d/1Ogd_1sKlAn-xr-y628OBaT4VldA7h91s/view?usp=share_link)“, Jhy-Neng Tasso Yeh, Jo-Fu Lotus Lin, Yi-Tien Li,  Fa-Hsuan Lin, , _IEEE Transactions on Medical Imaging_, (2019), Vol. 38 (3), pp. 824-833, doi: 10.1109/TMI.2018.2873317s.
 
-74\. “[Differential brain mechanisms during reading human vs. machine translated fiction and news texts](http://linbrainlab.org/wp-content/uploads/reprint_reading_srep2019.pdf)“, Fa-Hsuan Lin, Yun-Fei Liu, Hsin-Ju Lee, Claire H. C. Chang, Iiro P. Jaaskelainen, Jyh-Neng Yeh, Wen-Jui Kuo, [_Scientific_ _Reports, (9), Article number:_ _13251,_ _doi:_ 10.1038/s41598-019-49632-w](https://www.nature.com/articles/s41598-019-49632-w)
+74\. “[Differential brain mechanisms during reading human vs. machine translated fiction and news texts](https://drive.google.com/file/d/1A21cNqYMBghxnsD1r5ezc909ujgNifE6/view?usp=share_link)“, Fa-Hsuan Lin, Yun-Fei Liu, Hsin-Ju Lee, Claire H. C. Chang, Iiro P. Jaaskelainen, Jyh-Neng Yeh, Wen-Jui Kuo, [_Scientific_ _Reports, (9), Article number:_ _13251,_ _doi:_ 10.1038/s41598-019-49632-w](https://www.nature.com/articles/s41598-019-49632-w)
 
-73\. “[Reduced synchronized brain activity in schizophrenia during viewing of comedy movies](http://linbrainlab.org/wp-content/uploads/reprint_movie_isc_sz_srep2019.pdf.pdf)“, Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, _Scientific Reports,_ [_S__cientific Reports, (8), Article number:_ _13287,_ _doi:_ 10.1038/s41598-](https://www.nature.com/articles/s41598-019-48957-w)[019-48957-w](https://doi.org/10.1038/s41598-019-48957-w)
+73\. “[Reduced synchronized brain activity in schizophrenia during viewing of comedy movies](https://drive.google.com/file/d/1N4LKUIQz39yMBcNuO47wSH_vAjCsuvr7/view?usp=share_link)“, Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, _Scientific Reports,_ [_S__cientific Reports, (8), Article number:_ _13287,_ _doi:_ 10.1038/s41598-](https://www.nature.com/articles/s41598-019-48957-w)[019-48957-w](https://doi.org/10.1038/s41598-019-48957-w)
 
 **2018**
 
