@@ -54,13 +54,13 @@ title: Journal papers
 
 **2018**
 
-72\. “[Feature-dependent intrinsic functional connectivity across cortical depths in the human auditory cortex](http://35.203.18.157/wp-content/uploads/reprint_layer_fc_srep2018.pdf)“, Pu-Yeh Wu, Ying-Hua Chu, Jo-Fu Lotus Lin, Wen-Jui Kuo, Fa-Hsuan Lin, [_S__cientific Reports, (8), Article number:_ _13287,_ _doi:_ 10.1038/s41598-018-31292-x](https://www.nature.com/articles/s41598-018-31292-x)
+72\. “[Feature-dependent intrinsic functional connectivity across cortical depths in the human auditory cortex](https://drive.google.com/file/d/1bdNZcUgu-zTC0TDGZF-av1f1p-G8vB8P/view?usp=share_link)“, Pu-Yeh Wu, Ying-Hua Chu, Jo-Fu Lotus Lin, Wen-Jui Kuo, Fa-Hsuan Lin, [_S__cientific Reports, (8), Article number:_ _13287,_ _doi:_ 10.1038/s41598-018-31292-x](https://www.nature.com/articles/s41598-018-31292-x)
 
-71\. “[The sequence of cortical activity inferred by response latency variability in the human ventral pathway of face processing](http://35.203.18.157/wp-content/uploads/reprint_ffa_sequence_meg_scireps2018.pdf)“, Jo-Fu Lotus Lin, Juan Silva-Pereyra, Chi-Che Chou, Fa-Hsuan Lin, _[Scientific Reports, (8), Article number:](https://www.nature.com/articles/s41598-018-23942-x)_ _[5836,](https://www.nature.com/articles/s41598-018-23942-x)_ _[doi: 10.1038/s41598-018-23942-x](https://www.nature.com/articles/s41598-018-23942-x)_
+71\. “[The sequence of cortical activity inferred by response latency variability in the human ventral pathway of face processing](https://drive.google.com/file/d/1n-bjssaVol-G34m5m-wg9jXoueJ_MkDk/view?usp=share_link)“, Jo-Fu Lotus Lin, Juan Silva-Pereyra, Chi-Che Chou, Fa-Hsuan Lin, _[Scientific Reports, (8), Article number:](https://www.nature.com/articles/s41598-018-23942-x)_ _[5836,](https://www.nature.com/articles/s41598-018-23942-x)_ _[doi: 10.1038/s41598-018-23942-x](https://www.nature.com/articles/s41598-018-23942-x)_
 
-70\. “[Incongruent pitch cues are associated with increased activation and functional connectivity in the frontal areas](http://35.203.18.157/wp-content/uploads/reprint_lotus_ptich_scirep2018.pdf)“, Jo-Fu Lotus Lin, Toshiaki Imada, Patricia K. Kuhl, Fa-Hsuan Lin, [_Scientific Reports,_ (8), Article number: 5206, doi: 10.1038/s41598-018-23287-5](https://www.nature.com/articles/s41598-018-23287-5)
+70\. “[Incongruent pitch cues are associated with increased activation and functional connectivity in the frontal areas](https://drive.google.com/file/d/1oMwiAl11OEPWuKyxKvuQnG5Eongc121y/view?usp=share_link)“, Jo-Fu Lotus Lin, Toshiaki Imada, Patricia K. Kuhl, Fa-Hsuan Lin, [_Scientific Reports,_ (8), Article number: 5206, doi: 10.1038/s41598-018-23287-5](https://www.nature.com/articles/s41598-018-23287-5)
 
-69\. “[Relative latency and temporal variability of hemodynamic responses at the human primary visual cortex](http://35.203.18.157/wp-content/uploads/reprint_v1_bold_latency_ni2017.pdf)”, Fa-Hsuan Lin, Jonathan Polimeni; Jo-Fu Lin; Kevin W Tsai; Ying-Hua Chu; Pu-Yeh Wu; Yi-Tien Li; Yi-Cheng Hsu; Shang-Yueh Tsai; Wen-Jui Kuo, _NeuroImage,_ (2018), Vol. 164, pp. 194-201, doi: 10.1016/j.neuroimage.2017.01.041.
+69\. “[Relative latency and temporal variability of hemodynamic responses at the human primary visual cortex](https://drive.google.com/file/d/1uhRTusUlN8NgQ_giumGdYYCtKHuF_tOe/view?usp=share_link)”, Fa-Hsuan Lin, Jonathan Polimeni; Jo-Fu Lin; Kevin W Tsai; Ying-Hua Chu; Pu-Yeh Wu; Yi-Tien Li; Yi-Cheng Hsu; Shang-Yueh Tsai; Wen-Jui Kuo, _NeuroImage,_ (2018), Vol. 164, pp. 194-201, doi: 10.1016/j.neuroimage.2017.01.041.
 
 **2017**
 
