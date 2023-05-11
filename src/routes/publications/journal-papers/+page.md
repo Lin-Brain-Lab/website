@@ -78,11 +78,11 @@ title: Journal papers
 
 **2016**
 
-62\. “[Brain hemodynamic activity during viewing and re-viewing of comedy movies explained by experienced humor](http://35.203.18.157/wp-content/uploads/reprint_chaplin_fmri_isc_srep2016.pdf)“, Iiro P. Jääskeläinen, Juha Pajula, Jussi Tohka, Hsin-Ju Lee, Wen-Jui Kuo, Fa-Hsuan Lin, [_Scientific Reports_, (6), Article number: 27741, doi:10.1038/srep27741](https://www.nature.com/articles/srep27741)
+62\. “[Brain hemodynamic activity during viewing and re-viewing of comedy movies explained by experienced humor](https://drive.google.com/file/d/180jTFaOb7wwk55vlcc1q_JbfY9x_ldwe/view?usp=share_link)“, Iiro P. Jääskeläinen, Juha Pajula, Jussi Tohka, Hsin-Ju Lee, Wen-Jui Kuo, Fa-Hsuan Lin, [_Scientific Reports_, (6), Article number: 27741, doi:10.1038/srep27741](https://www.nature.com/articles/srep27741)
 
-61\. “[Rotary scanning acquisition in ultra-low-field MRI](http://35.203.18.157/wp-content/uploads/reprint_rsa_mrm2016.pdf)“, Yi-Cheng Hsu, Koos C.J. Zevenhoven, Ying-Hua Chu, Juhani Dabek, Risto J. Ilmoniemi, Fa-Hsuan Lin, _Magnetic Resonance in Medicine_ (2016), Vol. 75(6), pp. 2255-2264
+61\. “[Rotary scanning acquisition in ultra-low-field MRI](https://drive.google.com/file/d/1j_WVm8PYK_A84xjcV2eSWV27MOZOnz90/view?usp=share_link)“, Yi-Cheng Hsu, Koos C.J. Zevenhoven, Ying-Hua Chu, Juhani Dabek, Risto J. Ilmoniemi, Fa-Hsuan Lin, _Magnetic Resonance in Medicine_ (2016), Vol. 75(6), pp. 2255-2264
 
-60\. “[A 32-channel head coil array with circularly symmetric geometry](http://35.203.18.157/wp-content/uploads/reprint_chu_32ch_array_journal.pone2016.pdf) for accelerated human brain imaging“, Ying-Hua Chu, Yi-Cheng Hsu, Boris Keil, Wen-Jui Kuo, Fa-Hsuan Lin, _PLoS ONE_, 11(2): e0149446. doi:10.1371/journal.pone.0149446
+60\. “[A 32-channel head coil array with circularly symmetric geometry](https://drive.google.com/file/d/1J6h_euIg0KGM8MzTAb-HRbLCVREDL7aT/view?usp=share_link) for accelerated human brain imaging“, Ying-Hua Chu, Yi-Cheng Hsu, Boris Keil, Wen-Jui Kuo, Fa-Hsuan Lin, _PLoS ONE_, 11(2): e0149446. doi:10.1371/journal.pone.0149446
 
 **2015**
 
