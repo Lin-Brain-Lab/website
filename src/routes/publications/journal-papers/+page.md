@@ -220,15 +220,15 @@ title: Journal papers
 
 **2003**
 
-5\. “[A degenerate mode birdcage volume coil for sensitivity encoded imaging](http://35.203.18.157/wp-content/uploads/reprint_SENSE_BIRDCAGE_MRM2003.pdf)“, Fa-Hsuan Lin, Kenneth K Kwong, Ing-Jye Huang, John W. Belliveau, Lawrence L. Wald, Magnetic Resonance in Medicine (2003), Vol. 50 (5), pp. 1107-1111
+5\. “[A degenerate mode birdcage volume coil for sensitivity encoded imaging](https://drive.google.com/file/d/1zkWa5eWouUivQN_pv3ErQEPRO5GW4P68/view?usp=share_link)“, Fa-Hsuan Lin, Kenneth K Kwong, Ing-Jye Huang, John W. Belliveau, Lawrence L. Wald, Magnetic Resonance in Medicine (2003), Vol. 50 (5), pp. 1107-1111
 
-4\. “[Multivariate analysis of neuronal interactions in the generalized partial least squares framework: simulations and empirical studies](http://35.203.18.157/wp-content/uploads/reprint_gpls_sem_motor_hbm2009.pdf)“, Fa-Hsuan Lin, Anthony R. McIntosh, John Agnew, Guinevere F. Eden, Thomas A. Zeffiro, John W. Belliveau, NeuroImage (2003), Vol. 20 (2), pp. 625-642.
+4\. “[Multivariate analysis of neuronal interactions in the generalized partial least squares framework: simulations and empirical studies](https://drive.google.com/file/d/1xTPM8yS5By-oi2wHQQZ-AQCq_VyPn5hS/view?usp=share_link)“, Fa-Hsuan Lin, Anthony R. McIntosh, John Agnew, Guinevere F. Eden, Thomas A. Zeffiro, John W. Belliveau, NeuroImage (2003), Vol. 20 (2), pp. 625-642.
 
-3\. “[A wavelet-based approximation of surface coil sensitivity profiles for correction of image intensity inhomogeneity and parallel imaging reconstruction](http://35.203.18.157/wp-content/uploads/reprint_wavelet_b1_HBM2003.pdf)” Fa-Hsuan Lin, Ying-Jui Chen, John W. Belliveau, Lawrence L. Wald, Human Brain Mapping (2003), Vol. 19 (2), pp. 96-111
+3\. “[A wavelet-based approximation of surface coil sensitivity profiles for correction of image intensity inhomogeneity and parallel imaging reconstruction](https://drive.google.com/file/d/1FBypj7DJzVSa089oyQ2R-eq0rUFNoHNo/view?usp=share_link)” Fa-Hsuan Lin, Ying-Jui Chen, John W. Belliveau, Lawrence L. Wald, Human Brain Mapping (2003), Vol. 19 (2), pp. 96-111
 
 **1999  
 **
 
-2\. “[Quantitative spatial/spectral analysis of phased array coil](http://35.203.18.157/wp-content/uploads/reprint_mom_array_IEEE_tmi1999.pdf)“, Fa-Hsuan Lin, Wei-peng Kuan, Shyh-kang Jeng, Jyh-horng Chen, IEEE Transaction on Medical Imaging (1999), Vol. 18 (12), pp. 1129-1137
+2\. “[Quantitative spatial/spectral analysis of phased array coil](https://drive.google.com/file/d/1mffSg-OnFAHAjYWbIJkKe5Fml41jzd1Y/view?usp=share_link)“, Fa-Hsuan Lin, Wei-peng Kuan, Shyh-kang Jeng, Jyh-horng Chen, IEEE Transaction on Medical Imaging (1999), Vol. 18 (12), pp. 1129-1137
 
-1\. “[Quantitative spatial/spectral analysis of radio-frequency coil based on method of moment](http://35.203.18.157/wp-content/uploads/reprint_mom_rfcoil_IEEE_tmg1999.pdf)“, Fa-Hsuan Lin, Shyh-kang Jeng, Wei-peng Kuan, Jyh-horng Chen, IEEE Transactions on Magnetics (1999)_,_ Vol. 354, pp. 2118 -2127
+1\. “[Quantitative spatial/spectral analysis of radio-frequency coil based on method of moment](https://drive.google.com/file/d/1-Ymalkzf0SEQIioSMvEolXONDkLWn588/view?usp=share_link)“, Fa-Hsuan Lin, Shyh-kang Jeng, Wei-peng Kuan, Jyh-horng Chen, IEEE Transactions on Magnetics (1999)_,_ Vol. 354, pp. 2118 -2127
