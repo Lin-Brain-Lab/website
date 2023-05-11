@@ -86,23 +86,23 @@ title: Journal papers
 
 **2015**
 
-59\. “[Combining parallel detection of proton echo planar spectroscopic imaging (PEPSI) measurements with a data-consistency constraint improves SNR](http://35.203.18.157/wp-content/uploads/reprint_pepsi_dc_nbm2015.pdf)“, Shang-Yueh Tsai, Yi-Cheng Hsu, Ying-Hua Chu, Wen-Jui Kuo, Fa-Hsuan Lin, _NMR in Biomed_ (2015),Vol 28, pp 1678-1687
+59\. “[Combining parallel detection of proton echo planar spectroscopic imaging (PEPSI) measurements with a data-consistency constraint improves SNR](https://drive.google.com/file/d/1N2UpC2TvrhL2Ms8auuoTEVsjLDoq7OWC/view?usp=share_link)“, Shang-Yueh Tsai, Yi-Cheng Hsu, Ying-Hua Chu, Wen-Jui Kuo, Fa-Hsuan Lin, _NMR in Biomed_ (2015),Vol 28, pp 1678-1687
 
-58\. “[Significant feed-forward connectivity revealed by high frequency components of BOLD fMRI signals](http://35.203.18.157/wp-content/uploads/reprint_spec_granger_ini2015.pdf)“, Fa-Hsuan Lin, Ying-Hua Chu, Yi-Cheng Hsu, Jo-Fu Lin, Kevin W.-K. Tsai, Shang-Yueh Tsai, Wen-Jui Kuo, _NeuroImage_ (2015), Vol 121, pp 69-77
+58\. “[Significant feed-forward connectivity revealed by high frequency components of BOLD fMRI signals](https://drive.google.com/file/d/19eBrQIUapKrYs9yQhdvD4TETVXQBnPvf/view?usp=share_link)“, Fa-Hsuan Lin, Ying-Hua Chu, Yi-Cheng Hsu, Jo-Fu Lin, Kevin W.-K. Tsai, Shang-Yueh Tsai, Wen-Jui Kuo, _NeuroImage_ (2015), Vol 121, pp 69-77
 
 **2014**
 
-57\. “[Improving the spatial resolution of magnetic resonance inverse imaging via the blipped-CAIPI acquisition scheme](http://35.203.18.157/wp-content/uploads/reprint_blipped_caipi_ini_ni2014.pdf)“, Wei-Tang Chang, Kawin Setsompop, Jyrki Ahveninen, John W. Belliveau, Fa-Hsuan Lin, NeuroImage, (2014), Vol. 91, pp. 401-11
+57\. “[Improving the spatial resolution of magnetic resonance inverse imaging via the blipped-CAIPI acquisition scheme](https://drive.google.com/file/d/1MkBx90tzcQPWaxj76oa937YEVPtfKIMA/view?usp=share_link)“, Wei-Tang Chang, Kawin Setsompop, Jyrki Ahveninen, John W. Belliveau, Fa-Hsuan Lin, NeuroImage, (2014), Vol. 91, pp. 401-11
 
-56\. “[Increasing fMRI sampling rate improves Granger causality estimates](http://35.203.18.157/wp-content/uploads/reprint_ini_granger_plosone2014.pdf)“,Fa-Hsuan Lin, Jyrki Ahveninen, Tommi Raij, Thomas Witzel, Ying-Hua Chu, Iiro P. Jääskeläinen, Kevin Wen-Kai Tsai, Wen-Jui Kuo, John W. Belliveau, [PLoS ONE, 9(6): e100319. doi:10.1371/journal.pone.0100319](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100319)
+56\. “[Increasing fMRI sampling rate improves Granger causality estimates](https://drive.google.com/file/d/1eyA5ASo5CGx2IB3ZDqknB1GEozbrH4XV/view?usp=share_link)“,Fa-Hsuan Lin, Jyrki Ahveninen, Tommi Raij, Thomas Witzel, Ying-Hua Chu, Iiro P. Jääskeläinen, Kevin Wen-Kai Tsai, Wen-Jui Kuo, John W. Belliveau, [PLoS ONE, 9(6): e100319. doi:10.1371/journal.pone.0100319](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100319)
 
-55\. “[Enhanced neural synchrony between left auditory and premotor cortex is associated with successful phonetic categorization](http://35.203.18.157/wp-content/uploads/reprint_fpsyg-05-00394_2014.pdf)“, Jussi Alho, Fa-Hsuan Lin, Marc Sato, Hannu Tiitinen, Mikko Sams, Iiro P Jääskeläinen, [Front. Psychol., 06 May 2014 | doi: 10.3389/fpsyg.2014.00394](https://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.00394/abstract)
+55\. “[Enhanced neural synchrony between left auditory and premotor cortex is associated with successful phonetic categorization](https://drive.google.com/file/d/1G3QtMno6OVSLMmVs2lzdDAtRapl9J4gc/view?usp=share_link)“, Jussi Alho, Fa-Hsuan Lin, Marc Sato, Hannu Tiitinen, Mikko Sams, Iiro P Jääskeläinen, [Front. Psychol., 06 May 2014 | doi: 10.3389/fpsyg.2014.00394](https://journal.frontiersin.org/Journal/10.3389/fpsyg.2014.00394/abstract)
 
 (Also appear in “[Multisensory and sensorimotor interactions in speech perception](https://www.frontiersin.org/books/b/596)“, Edited by: Kaisa Tiippana, Jean-Luc Schwartz, Riikka Möttönen, Frontiers Media SA (ISBN: 978-2-88919-548-0)
 
-54\. “[Mitigate _B_1+inhomogeneity using spatially selective RF excitation with generalized spatial encoding magnetic fields](http://35.203.18.157/wp-content/uploads/reprint_sags_mrm2013.pdf)“, Yi-Cheng Hsu, I-Liang Chern, Wei Zhao, Borjan Gagoski, Thomas Witzel, Fa-Hsuan Lin, Magnetic Resonance in Medicine (2014), Vol. 71(4), pp. 1458-69, doi: 10.1002/mrm.24801
+54\. “[Mitigate _B_1+inhomogeneity using spatially selective RF excitation with generalized spatial encoding magnetic fields](https://drive.google.com/file/d/10CNx3zyKdSiBphlrLcBRLZLOelkIc0tD/view?usp=share_link)“, Yi-Cheng Hsu, I-Liang Chern, Wei Zhao, Borjan Gagoski, Thomas Witzel, Fa-Hsuan Lin, Magnetic Resonance in Medicine (2014), Vol. 71(4), pp. 1458-69, doi: 10.1002/mrm.24801
 
-53\. “[Efficient concomitant and remanence field artifact reduction in ultra-low-field MRI using a frequency-space formulation](http://35.203.18.157/wp-content/uploads/reprint_ulfmri_fx_mrm2014.pdf)“, Yi-Cheng Hsu, Panu T. Vesanen, Jaakko O. Nieminen, Koos C.J. Zevenhoven, Juhani Dabek, Lauri Parkkonen, I-Liang Chern, Risto J. Ilmoniemi, Fa-Hsuan Lin, Magnetic Resonance in Medicine (2014), Vol. 71 (3), pp. 955-965
+53\. “[Efficient concomitant and remanence field artifact reduction in ultra-low-field MRI using a frequency-space formulation](https://drive.google.com/file/d/1ipdrsf3u_rTEkPqcX8s7OtjovkV9j775/view?usp=share_link)“, Yi-Cheng Hsu, Panu T. Vesanen, Jaakko O. Nieminen, Koos C.J. Zevenhoven, Juhani Dabek, Lauri Parkkonen, I-Liang Chern, Risto J. Ilmoniemi, Fa-Hsuan Lin, Magnetic Resonance in Medicine (2014), Vol. 71 (3), pp. 955-965
 
 **2013**
 
