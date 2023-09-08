@@ -13,6 +13,7 @@ title: Journal papers
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
 **2023**
+
 90\. "Mood biomarkers of response to deep brain stimulation in depression measured with a sensing system.", Benjamin Davidson, Maximilian Scherer, Peter Giacobbe, Sean Nestor, Agessandro Abrahao, Liane Phung, Fa-Hsuan Lin, Nir Lipsman, Luka Milosevic, Clement Hamani, _Brain Stimulation, (2023), in press._
 
 89\. "Omnidirectional Monolithic Marker for Intra-operative MR-based Positional Sensing in Closed MRI", Chim Lee Cheung , Mengjie WU , Ge Fang , Justin Di-Lang Ho , Liyuan Liang , Kel Vin Tan , Fa-Hsuan Lin , Charles Hing-Chiu Chang , Ka-Wai Kwok, _IEEE Transcaction in Medical Imaging, (2023), in press._
