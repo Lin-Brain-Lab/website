@@ -14,7 +14,7 @@ title: Journal papers
 
 **2023**
 
-88\. "Design of coil holder for the improved maneuvering in concurrent TMS-MRI", Hsin-Ju Lee, KJ Woudsma, Mohammed F. Ishraq, Fa-Hsuan Lin, _Brain Stimulation_, (2023), in press.
+88\. "Design of coil holder for the improved maneuvering in concurrent TMS-MRI", Hsin-Ju Lee, KJ Woudsma, Mohammed F. Ishraq, Fa-Hsuan Lin, _Brain Stimulation, (2023), [Vol.16 (3), 966-968. doi: 10.1016/j.brs.2023.06.001](https://www.sciencedirect.com/science/article/pii/S1935861X2301793X)._
 
 87\. “Editorial: Methods and Protocols in Brain Stimulation”, Sandra Carvalho, Fa-Hsuan Lin, _[Frontiers in Human Neuroscience (2023), 17. doi: 10.3389/fnhum.2023.1208260](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1208260/full)._
 
