@@ -6,6 +6,8 @@ title: Book chapters and thesis
 
 ## Book chapters
 
+“Advances in resting-state fMRI acquisition: highly accelerated fMRI”, Mark Chiew, Hsin-Ju Lee, Fa-Hsuan Lin, in “[Advances in resting-state functional MRI](https://www.sciencedirect.com/book/9780323916882/advances-in-resting-state-functional-mri)“, Ed: Jean Chen, Catie Chang, 2023, Academic press.
+
 “Combining Noninvasive Electromagnetic and Hemodynamic Measures of Human Brain Activity”, Fa-Hsuan Lin, Thomas Witzel, Matti S. Hämäläinen, and Aapo Nummenma, in “[Brain and Human Body Modeling 2020](https://www.springer.com/gp/book/9783030456221)“, Ed: Sergey Makarov, Gregory Noetscher, Aapo, Nummenmaa , 2021, Springer press.
 
 “Anatomically and functionally constrained minimum norm estimates”, Matti S Hamalainen, Fa-Hsuan Lin, and John Mosher, in “[MEG: an introduction to methods](http://www.amazon.com/MEG-Introduction-Methods-Peter-Hansen/dp/0195307232/ref=sr_1_3?ie=UTF8&s=books&qid=1276571608&sr=8-3)“, Ed: Peter C. Hansen, Morten L. Kringelbach, Riitta Samelin, 2010, Oxford university press.
