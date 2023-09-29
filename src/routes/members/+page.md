@@ -13,7 +13,7 @@ Fa-Hsuan Lin
 
 ## Students
 
-## Graduate student
+## Graduate students
 
 KJ Woudsma (Department of Medical Biophysics, University of Toronto; 2023-)
 
@@ -21,10 +21,10 @@ Moh Israq (Department of Medical Biophysics, University of Toronto; 2023-)
 
 Mikko Nyrhinen (Aalto University; supervised by Prof. Risto Ilmoniemi; 2018-)
 
-## Research associate
+## Research associates
 Aidin Arbabi, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-)
 
-## Postdoctoral fellow
+## Postdoctoral fellows
 Hsin-Ju Lee, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2019-)
 
 Yanitz Trosel, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-)
