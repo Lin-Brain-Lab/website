@@ -11,21 +11,32 @@ Fa-Hsuan Lin
 
 [Department of Medical Biophysics, University of Toronto](https://medbio.utoronto.ca/faculty/lin)
 
-## Students
+# Students
 
 ## Graduate students
+
+KJ Woudsma (Department of Medical Biophysics, University of Toronto; 2023-)
+
+Moh Israq (Department of Medical Biophysics, University of Toronto; 2023-)
+
 Mikko Nyrhinen (Aalto University; supervised by Prof. Risto Ilmoniemi; 2018-)
 
-## Research assistant
-
-KJ Woudsma
+## Research associates
+Aidin Arbabi, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-)
 
 ## Postdoctoral fellows
 Hsin-Ju Lee, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2019-)
 
+Yanitz Trosel, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-)
 ## Alumni
 
-Mohamed Ghaith Majjani (coop student; University of Waterloo; fall 2022)
+Michael Jin (McMaster University; summer 2023)
+
+Mayukh Mondal (Vellore Institute of Technology, summer 2023)
+
+Nikhil Anand (India Institute of Technology Madras, summer 2023)
+
+Rajagopal Subramaniam (India Institute of Technology Madras, summer 2023)
 
 Kaihua Chen (China Agricultural University; summer 2022)
 
@@ -38,4 +49,5 @@ Ramanathan Rajaraman (Birla Institute of Technology and Science, Pilani; summer 
 Emily Rutledge (coop student; University of Waterloo, summer 2022)
 
 Suzzy He (2021), “Ballistocardiogram artifacts removal using artificial neural networks”, Engineering Science Thesis, Division of Engineering Science, University of Toronto
+
 
