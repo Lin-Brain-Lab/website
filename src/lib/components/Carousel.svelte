@@ -38,7 +38,7 @@
 	{/each}
 </svelte:head>
 
-<div class="h-40 w-full rounded-md md:h-60">
+<div class="h-72 w-full rounded-md sm:h-96">
 	{#each images as src, i (src)}
 		{#if i === current}
 			<div
@@ -50,7 +50,7 @@
 				<img
 					{src}
 					alt={src}
-					class="m-auto h-full cursor-pointer rounded-md bg-base-200 object-cover"
+					class="m-auto h-full cursor-pointer rounded-md object-contain"
 					on:click={() => spotlight(src)}
 				/>
 			</div>
