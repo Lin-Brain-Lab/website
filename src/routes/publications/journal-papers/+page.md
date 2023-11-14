@@ -14,7 +14,9 @@ title: Journal papers
 
 **2023**
 
-91\. "Visual stimuli modulate local field potentials but drive no high-frequency activity in human auditory cortex", Jyrki Ahveninen, Hsin-Ju Lee, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen Chou, Seppo P. Ahlfors, Wen-Jui Kuo, Iiro P. Jääskeläinen, Fa-Hsuan Lin, _Journal of Neuroscience, (2023), in press._
+92\. "Visual stimuli modulate local field potentials but drive no high-frequency activity in human auditory cortex", Jyrki Ahveninen, Hsin-Ju Lee, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen Chou, Seppo P. Ahlfors, Wen-Jui Kuo, Iiro P. Jääskeläinen, Fa-Hsuan Lin, _Journal of Neuroscience, (2023), in press._
+
+91\. "Accuracy of eeg-phase estimation for closed-loop brain stimulation inside the mri device", Joonas Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis,Fa-Hsuan Lin, Christoph Zrenner, Risto Ilmoniemi, Dogu Baran Aydogan, _Brain Stimulation, (2023), [Vol. 16 (1), 302-303. doi: 10.1016/j.brs.2023.01.546](https://www.brainstimjrnl.com/article/S1935-861X(23)00548-X/fulltext)_
 
 90\. "Mood biomarkers of response to deep brain stimulation in depression measured with a sensing system", Benjamin Davidson, Maximilian Scherer, Peter Giacobbe, Sean Nestor, Agessandro Abrahao, Liane Phung, Fa-Hsuan Lin, Nir Lipsman, Luka Milosevic, Clement Hamani, _Brain Stimulation, (2023), [Vol.16 (5), 1371-1373. doi: 10.1016/j.brs.2023.09.007](https://www.brainstimjrnl.com/article/S1935-861X(23)01908-3/fulltext)._
 
