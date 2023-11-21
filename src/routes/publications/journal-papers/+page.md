@@ -16,7 +16,7 @@ title: Journal papers
 
 92\. "Visual stimuli modulate local field potentials but drive no high-frequency activity in human auditory cortex", Jyrki Ahveninen, Hsin-Ju Lee, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen Chou, Seppo P. Ahlfors, Wen-Jui Kuo, Iiro P. Jääskeläinen, Fa-Hsuan Lin, _Journal of Neuroscience, (2023), in press._
 
-91\. "Accuracy of eeg-phase estimation for closed-loop brain stimulation inside the mri device", Joonas Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis,Fa-Hsuan Lin, Christoph Zrenner, Risto Ilmoniemi, Dogu Baran Aydogan, _Brain Stimulation, (2023), [Vol. 16 (1), 302-303. doi: 10.1016/j.brs.2023.01.546](https://www.brainstimjrnl.com/article/S1935-861X(23)00548-X/fulltext)_
+91\. "Accuracy of eeg-phase estimation for closed-loop brain stimulation inside the mri device", Joonas Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis,Fa-Hsuan Lin, Christoph Zrenner, Risto Ilmoniemi, Dogu Baran Aydogan, _Brain Stimulation, (2023), [Vol. 16 (1), 302-303. doi: 10.1016/j.brs.2023.01.546](https://www.brainstimjrnl.com/article/S1935-861X(23)00548-X/fulltext)._
 
 90\. "Mood biomarkers of response to deep brain stimulation in depression measured with a sensing system", Benjamin Davidson, Maximilian Scherer, Peter Giacobbe, Sean Nestor, Agessandro Abrahao, Liane Phung, Fa-Hsuan Lin, Nir Lipsman, Luka Milosevic, Clement Hamani, _Brain Stimulation, (2023), [Vol.16 (5), 1371-1373. doi: 10.1016/j.brs.2023.09.007](https://www.brainstimjrnl.com/article/S1935-861X(23)01908-3/fulltext)._
 
@@ -30,7 +30,7 @@ title: Journal papers
 
 86\. “[Processing of an audiobook in the human brain is shaped by cultural family background](https://drive.google.com/file/d/1m1n0HsG2sOR8ywWE8Onf23B1D3K4zL81/view?usp=share_link)“, Maria Hakonen, Arsi Ikäheimonen, Annika Hultén, Janne Kauttonen, Miika Koskinen, Fa-Hsuan Lin, Anastasia Lowe, Mikko Sams, Iiro P. Jääskeläinen, _[Brain Sciences (2022),](https://www.mdpi.com/2076-3425/12/5/649) [Vol.12 (5), 649. doi: 10.3390/brainsci12050649](https://www.sciencedirect.com/science/article/pii/S1053811920303967?via%3Dihub)._
 
-85\. “Ballistocardiogram suppression in concurrent EEG-MRI by dynamic modeling of heartbeats”, Hsin-Ju Lee, Simon J Graham, Wen-Jui Kuo, Fa-Hsuan Lin, [_Human Brain Mapping_ (2022), Vol. 43. pp. 4444-4457, doi: doi.org/10.1002/hbm.25965](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25965)._
+85\. “Ballistocardiogram suppression in concurrent EEG-MRI by dynamic modeling of heartbeats”, Hsin-Ju Lee, Simon J Graham, Wen-Jui Kuo, Fa-Hsuan Lin, _[Human Brain Mapping_ (2022), Vol. 43. pp. 4444-4457, doi: doi.org/10.1002/hbm.25965](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25965)._
 
 **2021**
 

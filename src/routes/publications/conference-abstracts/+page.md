@@ -4,6 +4,17 @@ title: Conference Abstracts
 
 # {title}
 
+**2023**
+
+“Entrainment Between Musical Stimuli And Cortical Depth-Dependent FMRI Signals”, Hsin-Ju Lee, Hankyeol Lee, Kamil Uludag, and Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2023); 3671
+
+“A High Impedance Radio-Frequency System Improves The Decoupling Between Receiving Coils In MRI”, Yu-Lung Tang, Hsin-Ju Lee, and Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2023); 2197
+
+
+“Neurovascular Coupling Of The Human Brain In Complex Naturalistic Stimuli Viewing”, Hsin-Ju Lee, Emily Rutledge, Jiahui Veron Cheng, Lauri Nummenmaa, Severi Santavirta, and Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2023); 3843
+
+“A Tailored Coil For Sensitive Detection Of MRI Signals In Modulating The Rat’S Blood-Brain Barrier By Focused Ultrasound And Microbubbles At 7T”, Sheng-Kai Wu, Alessandro De Maio, Hsin-Ju Lee, Kullervo Hynynen, Meaghan O'Reilly, and Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2023); 3721
+
 **2022**
 
 “Correlation between fMRI signals and oscillatory neuronal responses during audiovisual information processing”, Hsin-Ju Lee, Lauri Nummenmaa,  Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen  Chou, Chien Chen, Wen-Jui Kuo, Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2022); 1736
