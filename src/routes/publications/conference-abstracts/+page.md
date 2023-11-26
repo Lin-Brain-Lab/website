@@ -22,6 +22,7 @@ title: Conference Abstracts
 “Cortical-depth dependent functional connectivity at the human auditory cortex during the resting state and under complex naturalistic stimuli”, Hsin-Ju Lee, Hankyeol Lee, Kamil Uludag, Jyrki Ahveninen, Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2022); 2197
 
 **2021**
+
 "Investigating the genesis of evoked responses by invasive electrophysiological recording and direct stimulation in the human brain", Hsin-Ju Lee, Wen-Jui Kuo, Hsiang-Yu Yu, Chien-Chen Chou, Cheng-Chia Lee, Fa-Hsuan Lin. The 4th International Brain Stimulation Conference, Charleston, United States (2021); 
 
 “Correlation between inter-cortical depth fMRI signals and oscillatory neuronal responses during music listening”, Hsin-Ju Lee, Pu-Yeh Wu, Hankyeol Lee, Kamil Uludag, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen  Chou, Chien Chen, Wen-Jui Kuo, Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2021); 638
