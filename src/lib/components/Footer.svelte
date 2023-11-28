@@ -23,8 +23,10 @@
 				{tel}
 			</p>
 			<p title="location: {location}">
-				<Icon icon="carbon:location" class="inline" />
-				{location}
+				<a href="/images/sunnybrook_map.png">
+					<Icon icon="carbon:location" class="inline" />
+					{location}
+				</a>
 			</p>
 			2075 Bayview Ave, S6-69<br />
 			Toronto, ON, Canada M4N 3M5
