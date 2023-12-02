@@ -11,6 +11,7 @@ title: Neuroscience studies
 We enthisatically translate our methodologies to neurological and psychiatric health care. 
 
 <Carousel images={[
+    "/images/music_seeg_annot.png",
     "/images/Slide12.png",
     "/images/Slide14.png",
     "/images/Slide15.png",

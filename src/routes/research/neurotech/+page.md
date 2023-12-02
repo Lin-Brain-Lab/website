@@ -11,6 +11,7 @@ title: Neuroimaging technologies
 We develop cutting-edge non-invasive and invasive brain imaging and neuromodulation methods. 
 
 <Carousel images={[
+   "/images/tms_robot_camera.png",
    "/images/Slide2.png",
    "/images/Slide3.png",
    "/images/Slide4.png",
