@@ -12,11 +12,9 @@ We develop cutting-edge non-invasive and invasive brain imaging and neuromodulat
 
 <Carousel images={[
    "/images/tms_robot_camera.png",
-   "/images/Slide2.png",
+   "/images/tms_coil_holder_2023.png",
    "/images/Slide3.png",
-   "/images/Slide4.png",
    "/images/Slide5.png",
-   "/images/Slide6.png",
    "/images/Slide7.png",
     "/images/ini_granger-640x245.webp",
     "/images/vowel_fmri_sem.webp",
