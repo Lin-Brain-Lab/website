@@ -1,10 +1,11 @@
 ---
 title: Members
 ---
+
+# {title}
 <a href="/images/lin_lab_photo_dec2023.png">
 				</a>
-# {title}
-
+                
 ## Principal investigator
 Fa-Hsuan Lin
 
