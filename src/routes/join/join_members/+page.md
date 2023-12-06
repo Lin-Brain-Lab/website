@@ -3,9 +3,11 @@ title: Members
 ---
 
 # {title}
-<a href="/images/lin_lab_photo_dec2023.png">
-				</a>
-                
+
+<Carousel images={[
+    "/images/lin_lab_photo_dec2023.png",
+]} />
+
 ## Principal investigator
 Fa-Hsuan Lin
 
