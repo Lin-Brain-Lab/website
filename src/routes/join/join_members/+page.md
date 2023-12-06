@@ -2,6 +2,10 @@
 title: Members
 ---
 
+<script lang="ts">
+    import Carousel from "$lib/components/Carousel.svelte";
+</script>
+
 # {title}
 
 <Carousel images={[
