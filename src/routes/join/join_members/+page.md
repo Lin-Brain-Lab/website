@@ -12,8 +12,6 @@ Fa-Hsuan Lin
 
 [Department of Medical Biophysics, University of Toronto](https://medbio.utoronto.ca/faculty/lin)
 
-# Students
-
 ## Graduate students
 
 KJ Woudsma (Department of Medical Biophysics, University of Toronto; 2023-)
