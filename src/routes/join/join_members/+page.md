@@ -30,6 +30,7 @@ Aidin Arbabi, Ph.D. (University of Toronto and Sunnybrook Research Institute; 20
 Hsin-Ju Lee, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2019-)
 
 Yanitza Trosel, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-)
+
 ## Alumni
 
 Michael Jin (McMaster University; summer 2023)
