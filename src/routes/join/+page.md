@@ -1,13 +1,11 @@
 ---
 title: Join
 ---
-# {title}
+- [Current members](/join/join_members)
 
-## Current members
+- [Work with us](/join/join_work)
 
-## Work with us
-
-## Study recruit
+- [Study recruit](/join/join_study)
 
 
 
