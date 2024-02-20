@@ -19,6 +19,8 @@ KJ Woudsma (Department of Medical Biophysics, University of Toronto; 2023-)
 
 Moh Israq (Department of Medical Biophysics, University of Toronto; 2023-)
 
+Jessica Din (Department of Medical Biophysics, University of Toronto; 2023-)
+
 Mikko Nyrhinen (Aalto University; supervised by Prof. Risto Ilmoniemi; 2018-)
 
 ## Research associates
