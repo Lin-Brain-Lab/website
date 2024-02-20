@@ -22,7 +22,7 @@ Clinical Neurophysiology", Fa-Hsuan Lin, Hsin-Ju Lee, Lin-Yao Chien, Hsiang-Yu Y
 
 **2023**
 
-92\. "Visual stimuli modulate local field potentials but drive no high-frequency activity in human auditory cortex", Jyrki Ahveninen, Hsin-Ju Lee, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen Chou, Seppo P. Ahlfors, Wen-Jui Kuo, Iiro P. Jääskeläinen, Fa-Hsuan Lin, _Journal of Neuroscience, (2023), in press._
+92\. "Visual stimuli modulate local field potentials but drive no high-frequency activity in human auditory cortex", Jyrki Ahveninen, Hsin-Ju Lee, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen Chou, Seppo P. Ahlfors, Wen-Jui Kuo, Iiro P. Jääskeläinen, Fa-Hsuan Lin, _Journal of Neuroscience, (2023), [Vol. 44(7), e0890232023, doi: 10.1523/JNEUROSCI.0890-23.2023](https://www.jneurosci.org/content/44/7/e0890232023)._
 
 91\. "Accuracy of eeg-phase estimation for closed-loop brain stimulation inside the mri device", Joonas Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis,Fa-Hsuan Lin, Christoph Zrenner, Risto Ilmoniemi, Dogu Baran Aydogan, _Brain Stimulation, (2023), [Vol. 16 (1), 302-303. doi: 10.1016/j.brs.2023.01.546](https://www.brainstimjrnl.com/article/S1935-861X(23)00548-X/fulltext)._
 
