@@ -12,7 +12,6 @@ title: Journal papers
 
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
-
 **2024**
 
 94\. "Distributed source modeling of stereoencephalographic measurements of ictal activity
