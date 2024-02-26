@@ -67,7 +67,7 @@ Clinical Neurophysiology", Hsin-Ju Lee, Lin-Yao Chien, Hsiang-Yu Yu, Cheng-Chia 
 
 74\. “[Differential brain mechanisms during reading human vs. machine translated fiction and news texts](https://drive.google.com/file/d/1A21cNqYMBghxnsD1r5ezc909ujgNifE6/view?usp=share_link)“, Fa-Hsuan Lin, Yun-Fei Liu, Hsin-Ju Lee, Claire H. C. Chang, Iiro P. Jaaskelainen, Jyh-Neng Yeh, Wen-Jui Kuo, [_Scientific Reports_, (2019) Vol. 9, Article number:13251, doi: 10.1038/s41598-019-49632-w](https://www.nature.com/articles/s41598-019-49632-w)
 
-73\. “[Reduced synchronized brain activity in schizophrenia during viewing of comedy movies](https://drive.google.com/file/d/1N4LKUIQz39yMBcNuO47wSH_vAjCsuvr7/view?usp=share_link)“, Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, _Scientific Reports, [_Scientific Reports_, (2019) Vol. 8, Article number:13287,doi: 10.1038/s41598-019-48957-w](https://www.nature.com/articles/s41598-019-48957-w)
+73\. “[Reduced synchronized brain activity in schizophrenia during viewing of comedy movies](https://drive.google.com/file/d/1N4LKUIQz39yMBcNuO47wSH_vAjCsuvr7/view?usp=share_link)“, Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, [_Scientific Reports_, (2019) Vol. 8, Article number:13287,doi: 10.1038/s41598-019-48957-w](https://www.nature.com/articles/s41598-019-48957-w)
 
 **2018**
 
