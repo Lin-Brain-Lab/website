@@ -23,7 +23,7 @@ Clinical Neurophysiology", Hsin-Ju Lee, Lin-Yao Chien, Hsiang-Yu Yu, Cheng-Chia 
 
 92\. "Visual stimuli modulate local field potentials but drive no high-frequency activity in human auditory cortex", Jyrki Ahveninen, Hsin-Ju Lee, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen Chou, Seppo P. Ahlfors, Wen-Jui Kuo, Iiro P. Jääskeläinen, Fa-Hsuan Lin, _Journal of Neuroscience, (2023), [Vol. 44(7), e0890232023, doi: 10.1523/JNEUROSCI.0890-23.2023](https://www.jneurosci.org/content/44/7/e0890232023)._
 
-91\. "Accuracy of eeg-phase estimation for closed-loop brain stimulation inside the mri device", Joonas Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis,Fa-Hsuan Lin, Christoph Zrenner, Risto Ilmoniemi, Dogu Baran Aydogan, _Brain Stimulation, (2023), [Vol. 16 (1), 302-303. doi: 10.1016/j.brs.2023.01.546](https://www.brainstimjrnl.com/article/S1935-861X(23)00548-X/fulltext)._
+91\. "Accuracy of eeg-phase estimation for closed-loop brain stimulation inside the mri device", Joonas Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis, Fa-Hsuan Lin, Christoph Zrenner, Risto Ilmoniemi, Dogu Baran Aydogan, _Brain Stimulation, (2023), [Vol. 16 (1), 302-303. doi: 10.1016/j.brs.2023.01.546](https://www.brainstimjrnl.com/article/S1935-861X(23)00548-X/fulltext)._
 
 90\. "Mood biomarkers of response to deep brain stimulation in depression measured with a sensing system", Benjamin Davidson, Maximilian Scherer, Peter Giacobbe, Sean Nestor, Agessandro Abrahao, Liane Phung, Fa-Hsuan Lin, Nir Lipsman, Luka Milosevic, Clement Hamani, _Brain Stimulation, (2023), [Vol.16 (5), 1371-1373. doi: 10.1016/j.brs.2023.09.007](https://www.brainstimjrnl.com/article/S1935-861X(23)01908-3/fulltext)._
 
@@ -65,9 +65,9 @@ Clinical Neurophysiology", Hsin-Ju Lee, Lin-Yao Chien, Hsiang-Yu Yu, Cheng-Chia 
 
 75\. “[A flexible and modular receiver coil array for magnetic resonance imaging](https://drive.google.com/file/d/1Ogd_1sKlAn-xr-y628OBaT4VldA7h91s/view?usp=share_link)“, Jhy-Neng Tasso Yeh, Jo-Fu Lotus Lin, Yi-Tien Li,  Fa-Hsuan Lin, , _IEEE Transactions on Medical Imaging_, (2019), Vol. 38 (3), pp. 824-833, doi: 10.1109/TMI.2018.2873317s.
 
-74\. “[Differential brain mechanisms during reading human vs. machine translated fiction and news texts](https://drive.google.com/file/d/1A21cNqYMBghxnsD1r5ezc909ujgNifE6/view?usp=share_link)“, Fa-Hsuan Lin, Yun-Fei Liu, Hsin-Ju Lee, Claire H. C. Chang, Iiro P. Jaaskelainen, Jyh-Neng Yeh, Wen-Jui Kuo, [_Scientific_ _Reports, (9), Article number:_ _13251,_ _doi:_ 10.1038/s41598-019-49632-w](https://www.nature.com/articles/s41598-019-49632-w)
+74\. “[Differential brain mechanisms during reading human vs. machine translated fiction and news texts](https://drive.google.com/file/d/1A21cNqYMBghxnsD1r5ezc909ujgNifE6/view?usp=share_link)“, Fa-Hsuan Lin, Yun-Fei Liu, Hsin-Ju Lee, Claire H. C. Chang, Iiro P. Jaaskelainen, Jyh-Neng Yeh, Wen-Jui Kuo, [_Scientific Reports_, (2019) Vol. 9, Article number:13251, doi: 10.1038/s41598-019-49632-w](https://www.nature.com/articles/s41598-019-49632-w)
 
-73\. “[Reduced synchronized brain activity in schizophrenia during viewing of comedy movies](https://drive.google.com/file/d/1N4LKUIQz39yMBcNuO47wSH_vAjCsuvr7/view?usp=share_link)“, Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, _Scientific Reports,_ [_S__cientific Reports, (8), Article number:_ _13287,_ _doi:_ 10.1038/s41598-](https://www.nature.com/articles/s41598-019-48957-w)[019-48957-w](https://doi.org/10.1038/s41598-019-48957-w)
+73\. “[Reduced synchronized brain activity in schizophrenia during viewing of comedy movies](https://drive.google.com/file/d/1N4LKUIQz39yMBcNuO47wSH_vAjCsuvr7/view?usp=share_link)“, Pei-Chi Tu, Tung-Ping Su, Wei-Chen Lin, Wan-Chen Chang, Ya-Mei Bai, Cheng-Ta Li, Fa-Hsuan Lin, _Scientific Reports, [_Scientific Reports_, (2019) Vol. 8, Article number:13287,doi: 10.1038/s41598-019-48957-w](https://www.nature.com/articles/s41598-019-48957-w)
 
 **2018**
 
