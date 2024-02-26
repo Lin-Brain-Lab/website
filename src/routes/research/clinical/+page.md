@@ -22,11 +22,10 @@ We enthisatically translate our methodologies to neurological and psychiatric he
 ]} />
 
 ## Epilepsy
-We use concurrent EEG-MRI measurement to delineate epileptogenic regions for medicall refractory patients. EEG provides high resolution waveform of neuronal activities. However, the spatial resolution of EEG  is relatively poor and inhomogeneous. Functional MRI provides high resolution maps of whole-brain activity. Combining EEG and functional MRI can sensitively localize brain areas generating epileptic events.  
+We use concurrent EEG-MRI measurement to delineate epileptogenic regions for medically refractory patients. EEG provides high-resolution waveforms of neuronal activities. However, the spatial resolution of EEG is relatively poor and inhomogeneous. Functional MRI provides high-resolution maps of whole-brain activity. Combining EEG and functional MRI can sensitively localize brain areas generating epileptic events.
 
 ## Psychiatric disorders
-We use complex naturalistic (audiovisual) stimuli to detect and characterize brain areas with impaired high-order cognitive functions, such as the sense of humor and social perception. This neuroimaging paradigm can be used in mental health care for Schizophrenia, depression, autism, attention deficit hyperactivity disorder, bipolar individuals.
+We use complex naturalistic (audiovisual) stimuli to detect and characterize brain areas with impaired high-order cognitive functions, such as the sense of humor and social perception. This neuroimaging paradigm can be used in mental health care for schizophrenia, depression, autism, attention deficit hyperactivity disorder, and bipolar individuals.
 
 ## Neurodegenerative disease
-Neurodegenerative disease, such as Alzheimer's and Parkinson's disease, can be manifested in memory decline. We develop non-invasive imaging and interventional methods to measure and  promote neural substrates supporting this crucial brain function.
- 
+Neurodegenerative diseases, such as Alzheimer’s and Parkinson’s disease, can be manifested in memory decline. We develop non-invasive imaging and interventional methods to measure and promote neural substrates supporting this crucial brain function. 

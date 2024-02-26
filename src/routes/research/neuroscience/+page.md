@@ -22,7 +22,7 @@ We enthisatically translate our methodologies to neurological and psychiatric he
 We use materials of rich audiovisual contents to detect and characterize brain areas underpinning high-order cognitive functions, such as the sense of humor, emotion regulation, music perception, and social perception.
 
 ## Neurovascular coupling of the human brain
-We use high spatiotemporal resolution data across imaging modalies to measure neural (MEG, EEG, SEEG) and hemodynamic responses (fMRI) of the human brain. These data shed light on how information is processed and integrated in the brain.
+We use high spatiotemporal resolution data across imaging modalities to measure neural (MEG, EEG, SEEG) and hemodynamic responses (fMRI) of the human brain. These data shed light on how information is processed and integrated in the brain.
 
 
  
