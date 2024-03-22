@@ -14,7 +14,7 @@ title: Journal papers
 
 **2024**
 
-95\. "Functional magnetic resonance imaging signal has sub-second temporal accuracy", Yi-Tien Li, Hsin-Ju Lee, Fa-Hsuan Lin, _Journal of Cerebral Blood Flow and Metabolism, (2024), [in press. ]()._
+95\. "Functional magnetic resonance imaging signal has sub-second temporal accuracy", Yi-Tien Li, Hsin-Ju Lee, Fa-Hsuan Lin, _Journal of Cerebral Blood Flow and Metabolism, (2024), [in press. doi: 10.1177/0271678X241241136](https://journals.sagepub.com/doi/10.1177/0271678X241241136)._
 
 94\. "Distributed source modeling of stereoencephalographic measurements of ictal activity
 Clinical Neurophysiology", Hsin-Ju Lee, Lin-Yao Chien, Hsiang-Yu Yu, Cheng-Chia Lee, Chien-Chen Chou, Wen-Jui Kuo, Fa-Hsuan Lin, _Clinical Neurophysiology, (2024), [in press. doi: 10.1016/j.clinph.2024.02.025](https://www.sciencedirect.com/science/article/pii/S1388245724000506)._
