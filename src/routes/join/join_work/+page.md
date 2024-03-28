@@ -9,7 +9,7 @@ We are open to recruit postdoctoral fellows and full-time researchers, technicia
 Some job postings are [here](https://sunnybrook.ca/employment/?d=16). Can't find a post that fits you? Don't hesitate to contact us if you think you are a great one. 
 
 ## Graduate students
-We are recruiting graduate students for thesis work from [Department of Medical Biophysics, University of Toronto](https://medbio.utoronto.ca) and [Institute of Medical Science, Unviersity of Toront](https://ims.utoronto.ca). 
+We are recruiting graduate students for thesis work from [Department of Medical Biophysics, University of Toronto](https://medbio.utoronto.ca) and [Institute of Medical Science, Unviersity of Toronto](https://ims.utoronto.ca). 
 For prospetive students, please submit your admission application directly to the department. For admitted students, please contact us for a lab visit and research discussion.
 
 ## Undergraduate students (summer, co-op, and voluntary)
