@@ -6,7 +6,9 @@ title: Work with us
 
 ## Postdoctoral fellows and full-time researchers/technicians/engineers
 We are open to recruit postdoctoral fellows and full-time researchers, technicians, and engineers. In particular, we enthusiastically identify colleagues to build devices, develop computational models, and reveal neural substrates correlated with brain function and dysfunction. 
-Some job postings are [here](https://sunnybrook.ca/employment/?d=16). Can't find a post that fits you? Don't hesitate to contact us if you think you are a great one. 
+We are recruiting two postdocs. Please see the annoucements: [Postodoc for concurrent TMS and EEG Study](http://sunnybrook.jobis.ca/bbp9) and [Postdoc for TMS and MRI Study ](http://sunnybrook.jobis.ca/bbqh).
+
+Can't find a post that fits you? Don't hesitate to contact us if you think you are a great one. 
 
 ## Graduate students
 We are recruiting graduate students for thesis work from [Department of Medical Biophysics, University of Toronto](https://medbio.utoronto.ca) and [Institute of Medical Science, Unviersity of Toronto](https://ims.utoronto.ca). 
