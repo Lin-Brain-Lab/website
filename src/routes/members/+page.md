@@ -29,8 +29,9 @@ Aidin Arbabi, Ph.D. (University of Toronto and Sunnybrook Research Institute; 20
 ## Postdoctoral fellows
 Hsin-Ju Lee, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2019-)
 
-Yanitz Trosel, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-)
 ## Alumni
+
+Yanitz Trosel, Ph.D. (2023 - 2024)
 
 Michael Jin (McMaster University; summer 2023)
 
