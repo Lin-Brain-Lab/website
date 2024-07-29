@@ -13,6 +13,7 @@ title: Journal papers
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
 **2024**
+
 96\. "Inter-subject gamma oscillation synchronization as a biomarker of abnormal processing of social interaction in ADHD", Ming-Tao Yang, Hueng-Chuen Fan, Hsin-Ju Lee, KJ Woudsma, Kuen-Song Lin, Jao-Shwann Liang, Fa-Hsuan Lin, _Scientific Reports_, (2024), [in press]()
 
 95\. "Functional magnetic resonance imaging signal has sub-second temporal accuracy", Yi-Tien Li, Hsin-Ju Lee, Fa-Hsuan Lin, _Journal of Cerebral Blood Flow and Metabolism_, (2024), [in press. doi: 10.1177/0271678X241241136](https://journals.sagepub.com/doi/10.1177/0271678X241241136)
