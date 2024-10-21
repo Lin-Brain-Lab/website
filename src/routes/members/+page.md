@@ -23,13 +23,12 @@ Jessica Din (Department of Medical Biophysics, University of Toronto; 2023-)
 
 Mikko Nyrhinen (Aalto University; supervised by Prof. Risto Ilmoniemi; 2018-)
 
-## Research associates
-Aidin Arbabi, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-)
-
 ## Postdoctoral fellows
 Hsin-Ju Lee, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2019-)
 
 ## Alumni
+Aidin Arbabi, Ph.D. (University of Toronto and Sunnybrook Research Institute; 2023-2024)
+
 Yanitz Trosel, Ph.D. (2023 - 2024)
 
 Michael Jin (McMaster University; summer 2023)
