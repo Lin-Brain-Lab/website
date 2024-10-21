@@ -19,9 +19,13 @@ Fa-Hsuan Lin
 
 [Department of Medical Biophysics, University of Toronto](https://medbio.utoronto.ca/faculty/lin)
 
+## Postdoc fellow
+
+Hsin-Ju Lee (Department of Medical Biophysics, University of Toronto; 2019-)
+
 ## Graduate students
 
- (Department of Medical Biophysics, University of Toronto; 2023-)
+Jessic Din (Department of Medical Biophysics, University of Toronto; 2023-)
 
 KJ Woudsma (Department of Medical Biophysics, University of Toronto; 2023-)
 
