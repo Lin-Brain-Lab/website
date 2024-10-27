@@ -3,6 +3,18 @@ title: Conference Abstracts
 ---
 
 # {title}
+**2024**
+
+“Up To 24-Channel Receiver Coil Arrays For Concurrent TMS-MRI Imaging At 3T”, Hsin-Ju Lee, Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2024); 2722
+
+
+“Identification Of Cortical Locations Functionally Connected To The Hippocampus For Personalized Multi-Target TMS Neuromodulation”, Hsin-Ju Lee, Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2024); 3436
+
+
+“Four-Channel Receiver Coil Array For Focused Ultrasound Spine Imaging”, Hsin-Ju Lee, Meaghan O'Reilly, Ryan M. Jones, Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2024); 2700
+
+
+“Preliminary Investigation Of BOLD Dependence On EEG-TMS Using A Closed-Loop TMS-EEG-FMRI Setup”, Joonas Petteri Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis, Fa-Hsuan Lin, Christoph Zrenner, Risto Ilmoniemi, Dogu Baran Aydogan, Intl. Soc. Mag. Reson. Med. (2024); 1326
 
 **2023**
 
