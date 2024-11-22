@@ -4,17 +4,6 @@ title: Members
 
 # {title}
 
-<Carousel images={[
-    "/images/Slide7.png",
-    "/images/Slide8.png",
-    "/images/Slide9.png",
-    "/images/Slide10.png",
-    "/images/Slide11.png",
-    "/images/Slide13.png",
-    "/images/lorazepam_meg.webp",
-    "/images/epilepsy_granger-1-640x245.webp",
-]} />
-
 ## Principal investigator
 Fa-Hsuan Lin
 
