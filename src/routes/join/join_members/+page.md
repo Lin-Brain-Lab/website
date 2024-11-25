@@ -9,7 +9,7 @@ title: Members
 # {title}
 
 <Carousel images={[
-    "/images/lin_lab_photo_dec2023.png",
+    "/images/lin_lab_photo_dec2024.jpg",
 ]} />
 
 ## Principal investigator
