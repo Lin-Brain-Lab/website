@@ -14,7 +14,7 @@ title: Journal papers
 
 **2025**
 
-98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, _Neuropsychologia_ (2025), In press](https://) 
+98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, [_Neuropsychologia_ (2025), In press](https://) 
 
 **2024**
 
