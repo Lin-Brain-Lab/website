@@ -12,6 +12,10 @@ title: Journal papers
 
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
+**2025**
+
+98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, Annika Kluge [_Neuropsychologia_ (2025), In press](https://) 
+
 **2024**
 
 97\. "Onset timing of letter processing in auditory and visual sensory cortices", Tommi Raij, Fa-Hsuan Lin, Benjamin Letham, Kaisu Lankinen, Tapsya Nayak, Thomas Witzel, Matti Hamalainen, Jyrki Ahveninen,[_Frontiers in Integrative Neuroscience_ (2024), Vol. 18 doi: 10.3389/fnint.2024.1427149](https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2024.1427149/abstract) 
