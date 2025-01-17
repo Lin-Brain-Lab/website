@@ -13,13 +13,14 @@ title: Journal papers
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
 **2025**
+
 99\. "Detection of epileptogenic zones in people with epilepsy using optimized EEG-fMRI", Po-Tso Lin, Jia-Hong Sie, Hsin-Ju Lee, Chien-Chen Chou, Yen-Cheng Shih, Chien Chen, Fa-Hsuan Lin, Wen-Jui Kuo, Hui Ming Khoo, Hsiang-Yu Yu, [_Epilepsy & Behavior_ (2025), in press. doi: 10.1016/j.yebeh.2024.110257](https://www.sciencedirect.com/science/article/pii/S1525505024006395)
 
-98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, [_Neuropsychologia_ (2025), in press](https://www.sciencedirect.com/science/article/abs/pii/S002839322500003X?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=117712878&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM534787&utm_medium=email&utm_source=AC_) 
+98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, [_Neuropsychologia_ (2025), in press](https://www.sciencedirect.com/science/article/abs/pii/S002839322500003X?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=117712878&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM534787&utm_medium=email&utm_source=AC) 
 
 **2024**
 
-97\. "Onset timing of letter processing in auditory and visual sensory cortices", Tommi Raij, Fa-Hsuan Lin, Benjamin Letham, Kaisu Lankinen, Tapsya Nayak, Thomas Witzel, Matti Hamalainen, Jyrki Ahveninen,[_Frontiers in Integrative Neuroscience_ (2024), Vol. 18 doi: 10.3389/fnint.2024.1427149](https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2024.1427149/abstract) 
+97\. "Onset timing of letter processing in auditory and visual sensory cortices", Tommi Raij, Fa-Hsuan Lin, Benjamin Letham, Kaisu Lankinen, Tapsya Nayak, Thomas Witzel, Matti Hamalainen, Jyrki Ahveninen, [_Frontiers in Integrative Neuroscience_ (2024), Vol. 18 doi: 10.3389/fnint.2024.1427149](https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2024.1427149/abstract) 
 
 96\. "Inter-subject gamma oscillation synchronization as a biomarker of abnormal processing of social interaction in ADHD", Ming-Tao Yang, Hueng-Chuen Fan, Hsin-Ju Lee, KJ Woudsma, Kuen-Song Lin, Jao-Shwann Liang, Fa-Hsuan Lin, [_Scientific Reports_ (2024), Vol. 14, 17924, doi: 10.1038/s41598-024-68905-7](https://www.nature.com/articles/s41598-024-68905-7)
 
