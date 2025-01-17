@@ -28,9 +28,9 @@ jobs:
               uses: actions/checkout@v4
 
             - name: Setup PNPM
-              uses: pnpm/action-setup@v3
-              with:
-                  run_install: true
+              uses: pnpm/action-setup@v4
+
+            - run: pnpm install
 
             # - name: Install Playwright Dependencies
             #   run: npx playwright install chromium --with-deps
@@ -42,7 +42,7 @@ jobs:
               run: pnpm build
 
             - name: Setup Pages
-              uses: actions/configure-pages@v4
+              uses: actions/configure-pages@v5
 
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
