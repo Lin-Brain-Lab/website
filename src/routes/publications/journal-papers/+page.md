@@ -13,6 +13,7 @@ title: Journal papers
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
 **2025**
+99\. "Detection of epileptogenic zones in people with epilepsy using optimized EEG-fMRI", Po-Tso Lin, Jia-Hong Sie, Hsin-Ju Lee, Chien-Chen Chou, Yen-Cheng Shih, Chien Chen, Fa-Hsuan Lin, Wen-Jui Kuo, Hui Ming Khoo, Hsiang-Yu Yu, [_Epilepsy & Behavior_ (2025), in press. doi: 10.1016/j.yebeh.2024.110257](https://www.sciencedirect.com/science/article/pii/S1525505024006395)
 
 98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, [_Neuropsychologia_ (2025), In press](https://www.sciencedirect.com/science/article/abs/pii/S002839322500003X?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=117712878&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM534787&utm_medium=email&utm_source=AC_) 
 
