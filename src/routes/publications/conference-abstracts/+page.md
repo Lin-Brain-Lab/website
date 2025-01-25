@@ -4,6 +4,18 @@ title: Conference Abstracts
 
 # {title}
 
+**2025**
+
+"Connectivity-guided, interleaved iTBS-fMRI demonstrates subcortical target engagement in treatment-resistant depression", Christopher Pople, Maria Vasileiadi, Alina Zaidi, Dara Silver, Lina Musa, Alexander Nyman, Fa-Hsuan Lin, Robin Cash, Peter Giacobbe, Jennifer Rabin, Daniel Blumberger, Maged Goubran, Benjamin Davidson, Clement Hamani, Nir Lipsman, Martin Tik, Sean Nestor, 6th International Brain Stimulation Conference (2025); P3.037
+
+"Episodic memory improvement in healthy participants by TMS at the medial frontal cortex guided by personalized fMRI", Hsin-Ju Lee, Fa-Hsuan Lin, 6th International Brain Stimulation Conference (2025); P3.087
+
+"Personalized targeting cortical locations of the hippocampal network informed by fMRI from a large cohort", Hsin-Ju Lee, Fa-Hsuan Lin, 6th International Brain Stimulation Conference (2025); FS1C.4
+
+"Preliminary investigation on EEG phase-triggered TMS with concurrent fMRI", Joonas Petteri Laurinoja, Umair Hassan, Mikko Nyrhinen, Matilda Makkonen, Pantelis Lioumis, Fa-Hsuan Lin, Christoph Zrenner, Risto J. Ilmoniemi, Dogu Baran Aydogan, 6th International Brain Stimulation Conference (2025); FS5A.2
+
+" MRI receiver coil arrays and holders for concurrent TMS-MRI experiments", Hsin-Ju Lee, Fa-Hsuan Lin, 6th International Brain Stimulation Conference (2025); P1.055
+
 **2024**
 
 “Up To 24-Channel Receiver Coil Arrays For Concurrent TMS-MRI Imaging At 3T”, Hsin-Ju Lee, Fa-Hsuan Lin, Intl. Soc. Mag. Reson. Med. (2024); 2722
