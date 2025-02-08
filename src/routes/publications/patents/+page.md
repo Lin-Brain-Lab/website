@@ -7,6 +7,8 @@ title: Patents
 *   [US patents (issued)](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=fa-hsuan&FIELD1=INNM&co1=AND&TERM2=&FIELD2=&d=PTXT)
 *   [US patents (applications)](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=fa-hsuan&FIELD1=IN&co1=AND&TERM2=&FIELD2=&d=PG01)
 
+“[SYSTEMS FOR SUPPRESSION OF BALLISTOCARDIOGRAM ARTIFACTS IN ELECTROENCEPHALOGRAPHY SIGNALS VIA DYNAMIC HEARTBEAT MODELING](https://www.ic.gc.ca/opic-cipo/cpd/eng/patent/3153025/summary.html?query=fa-hsuan&type=basic_search)“, Fa-Hsuan Lin, issued on Nov. 28, 2017 (Canada Patent 3153025)
+
 “[Method and apparatus for generating a specific flip angle distribution in MRI](http://linbrainlab.org/wp-content/uploads/pat9829556-1.pdf)“, Yi-Cheng Hsu, I-Liang Chern, and Fa-Hsuan Lin, issued on Nov. 28, 2017 (United States Patent 9,829,556)
 
 “[Multi-channel coil array for parallel magnetic resonance imaging](http://linbrainlab.org/wp-content/uploads/pat9720059-1.pdf)“, Fa-Hsuan Lin and Ying-Hua Chu, issued on Aug. 1, 2017 (United States Patent 9,720,059; Taiwan Patent I491903)
