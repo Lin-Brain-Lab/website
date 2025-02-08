@@ -14,6 +14,8 @@ title: Journal papers
 
 **2025**
 
+100\. "Identification of cortical targets for modulating function supported by the human hippocampal network", Hsin-Ju Lee, Fa-Hsuan Lin, [_Human Brain Mapping_ (2025), in press. ]()
+
 99\. "Detection of epileptogenic zones in people with epilepsy using optimized EEG-fMRI", Po-Tso Lin, Jia-Hong Sie, Hsin-Ju Lee, Chien-Chen Chou, Yen-Cheng Shih, Chien Chen, Fa-Hsuan Lin, Wen-Jui Kuo, Hui Ming Khoo, Hsiang-Yu Yu, [_Epilepsy & Behavior_ (2025), in press. doi: 10.1016/j.yebeh.2024.110257](https://www.sciencedirect.com/science/article/pii/S1525505024006395)
 
 98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, [_Neuropsychologia_ (2025), in press, doi: 10.1016/j.neuropsychologia.2025.109068](https://www.sciencedirect.com/science/article/pii/S002839322500003X?via%3Dihub) 
