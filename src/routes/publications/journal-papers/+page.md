@@ -13,6 +13,7 @@ title: Journal papers
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
 **2025**
+101\. "Evaluation of focused ultrasound modulation of the blood-brain barrier in gray and white matter", Alessandro De Maio, Yuexi Huang, Fa-Hsuan Lin, Bojana Stefanovic, Greg J. Stanisz, Meaghan A. O'Reilly, [_Journal of Controlled Release_ (2025), in press. ](https://www.sciencedirect.com/science/article/pii/S0168365925002500?via%3Dihub)
 
 100\. "Identification of cortical targets for modulating function supported by the human hippocampal network", Hsin-Ju Lee, Fa-Hsuan Lin, [_Human Brain Mapping_ (2025), in press. ]()
 
