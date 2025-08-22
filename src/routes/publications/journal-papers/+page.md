@@ -14,13 +14,15 @@ title: Journal papers
 
 **2025**
 
-101\. "Evaluation of focused ultrasound modulation of the blood-brain barrier in gray and white matter", Alessandro De Maio, Yuexi Huang, Fa-Hsuan Lin, Bojana Stefanovic, Greg J. Stanisz, Meaghan A. O'Reilly, [_Journal of Controlled Release_ (2025), in press. ](https://www.sciencedirect.com/science/article/pii/S0168365925002500?via%3Dihub)
+102\. "The network-based underpinnings of persisting symptoms after concussion: A multimodal neuroimaging meta-analysis", Adriano Mollica, Robin F. H. Cash, Carl Froilan D. Leochico,Peter Giacobbe, Isabella J. Sewell, Andrew Zalesky, Jennifer S. Rabin, Maged Goubran, Simon J. Graham, Benjamin Davidson, Fa-Hsuan Lin, Nir Lipsman, Clement Hamani, Matthew J. Burke, Sean M. Nestor, [_Nature Mental Health_ (2025), in press ]()
 
-100\. "Identification of cortical targets for modulating function supported by the human hippocampal network", Hsin-Ju Lee, Fa-Hsuan Lin, [_Human Brain Mapping_ (2025), in press. ]()
+101\. "Evaluation of focused ultrasound modulation of the blood-brain barrier in gray and white matter", Alessandro De Maio, Yuexi Huang, Fa-Hsuan Lin, Bojana Stefanovic, Greg J. Stanisz, Meaghan A. O'Reilly, [_Journal of Controlled Release_ (2025), Vol. 381 (10), 113631, doi: 10.1016/j.jconrel.2025.113631 ](https://www.sciencedirect.com/science/article/pii/S0168365925002500)
 
-99\. "Detection of epileptogenic zones in people with epilepsy using optimized EEG-fMRI", Po-Tso Lin, Jia-Hong Sie, Hsin-Ju Lee, Chien-Chen Chou, Yen-Cheng Shih, Chien Chen, Fa-Hsuan Lin, Wen-Jui Kuo, Hui Ming Khoo, Hsiang-Yu Yu, [_Epilepsy & Behavior_ (2025), in press. doi: 10.1016/j.yebeh.2024.110257](https://www.sciencedirect.com/science/article/pii/S1525505024006395)
+100\. "Identification of cortical targets for modulating function supported by the human hippocampal network", Hsin-Ju Lee, Fa-Hsuan Lin, [_Human Brain Mapping_ (2025), Vol. 46 (5), e70167, doi: 10.1002/hbm.70167](https://pmc.ncbi.nlm.nih.gov/articles/PMC11979967/)
 
-98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, [_Neuropsychologia_ (2025), in press, doi: 10.1016/j.neuropsychologia.2025.109068](https://www.sciencedirect.com/science/article/pii/S002839322500003X?via%3Dihub) 
+99\. "Detection of epileptogenic zones in people with epilepsy using optimized EEG-fMRI", Po-Tso Lin, Jia-Hong Sie, Hsin-Ju Lee, Chien-Chen Chou, Yen-Cheng Shih, Chien Chen, Fa-Hsuan Lin, Wen-Jui Kuo, Hui Ming Khoo, Hsiang-Yu Yu, [_Epilepsy & Behavior_ (2025), Vol. 164, 11057, doi: 10.1016/j.yebeh.2024.110257](https://www.sciencedirect.com/science/article/pii/S1525505024006395)
+
+98\. "Supportive but biased: perceptual neural intergroup bias is sensitive to minor reservations about supporting outgroup immigration", Annika Kluge, Niloufar Zebarjadi, Matilde Tassinari, Fa-Hsuan Lin, Iiro P. Jääskeläinen, Inga Jasinskaja-Lahti, Jonathan Levy, [_Neuropsychologia_ (2025), Vol. 28, 109068, doi: 10.1016/j.neuropsychologia.2025.109068](https://www.sciencedirect.com/science/article/pii/S002839322500003X?via%3Dihub) 
 
 **2024**
 
