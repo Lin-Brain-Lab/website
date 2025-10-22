@@ -13,6 +13,7 @@ title: Journal papers
 [ResearchGate](https://www.researchgate.net/profile/Fa-Hsuan_Lin)
 
 **2025**
+
 104\. "Tissue-type differences in focused ultrasound and microbubble-mediated drug delivery to the brain are not fully explained by vascular density: a vessel-level analysis", Alessandro De Maio, Fa-Hsuan Lin, Bojana Stefanovic, Meaghan A. OReilly,  [_Theranostics_ (2025), in press ]()"
 
 103\. "Disease Duration Modulates BOLD Representations of Alpha Oscillations in Drug-Resistant Epilepsy: A Concurrent EEG and fMRI Study", Jia-Hong Sie, Hsin-Ju Lee, Yen-Cheng Shih, Chien-Chen Chou, Chien Chen, David Niddam, Hsiang-Yu Yu, Fa-Hsuan Lin, Wen-Jui Kuo,  [_Epilepsia_ (2025), in press ]()"
