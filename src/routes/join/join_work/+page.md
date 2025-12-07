@@ -5,14 +5,22 @@ title: Work with us
 # {title}
 
 ## Postdoctoral fellows and full-time researchers/technicians/engineers
-We are open to recruit postdoctoral fellows and full-time researchers, technicians, and engineers. In particular, we enthusiastically identify colleagues to build devices, develop computational models, and reveal neural substrates correlated with brain function and dysfunction. 
+We are open to recruit postdoctoral fellows and full-time researchers, technicians, and engineers. In particular, we enthusiastically identify colleagues with publications and strong interests in MRI physics, radio-frequency coil, wearable devices, and MRI/EEG/TMS computational models to work together to reveal neural substrates correlated with brain function and dysfunction. 
 We are recruiting two postdocs. Please see the annoucements: [Postodoc for concurrent TMS and EEG Study](http://sunnybrook.jobis.ca/bbp9) and [Postdoc for TMS and MRI Study ](http://sunnybrook.jobis.ca/bbqh).
 
 Can't find a post that fits you? Don't hesitate to contact us if you think you are a great one. 
 
 ## Graduate students
 We are recruiting graduate students for thesis work from [Department of Medical Biophysics, University of Toronto](https://medbio.utoronto.ca) and [Institute of Medical Science, Unviersity of Toronto](https://ims.utoronto.ca). 
-We are particularly recruiting students with strong commitment and interest to develop novel neuroimaging methods, including data analytics and hardware, for human neuroimaging research. For prospetive students, please submit your admission application directly to the department. For admitted students, please contact us for a lab visit and research discussion.
+We are particularly recruiting students with strong commitment and interest to in MRI physics and engineering and electrophysiology data analysis to develop novel neuroimaging methods. We are currently engaging the following projects:
+
+- MRI coil development
+- MRI acquisiton with high spatiotemporal resolution
+- MRI contrast for detecting neurophysiology
+- Integration of MRI with TMS
+- Integration of EEG with TMS
+
+For prospetive students, please submit your admission application directly to the department. For admitted students, please contact us for a lab visit and research discussion.
 
 ## Undergraduate students (research project, summer, co-op)
 - We are open to take research undergraduate student, who is looking for a lab to work on a project. This research project must be accredited by your home department. Please contact us for details if you opt to this opportunity. 
