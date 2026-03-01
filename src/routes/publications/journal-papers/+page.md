@@ -14,11 +14,13 @@ title: Journal papers
 
 **2025**
 
+105\. "Thalamus anatomy predicts cognitive performance and hippocampal atrophy : in aging adults: a UK Biobank study", Guocheng Jiang, Fa-Hsuan Lin, Hugo Cogo-Moreira, Jennifer S Rabin, J Jean Chen, Walter Swardfager, Bradley J MacIntosh [_Brain Communications_ (2025), Sep 10;7(5):fcaf334, doi: 10.1093/braincomms/fcaf334](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455194/)"
+
 104\. "Tissue-type differences in focused ultrasound and microbubble-mediated drug delivery to the brain are not fully explained by vascular density: a vessel-level analysis", Alessandro De Maio, Fa-Hsuan Lin, Bojana Stefanovic, Meaghan A. OReilly,  [_Theranostics_ (2025), in press ]()"
 
-103\. "Disease Duration Modulates BOLD Representations of Alpha Oscillations in Drug-Resistant Epilepsy: A Concurrent EEG and fMRI Study", Jia-Hong Sie, Hsin-Ju Lee, Yen-Cheng Shih, Chien-Chen Chou, Chien Chen, David Niddam, Hsiang-Yu Yu, Fa-Hsuan Lin, Wen-Jui Kuo,  [_Epilepsia_ (2025), in press ]()"
+103\. "Disease Duration Modulates BOLD Representations of Alpha Oscillations in Drug-Resistant Epilepsy: A Concurrent EEG and fMRI Study", Jia-Hong Sie, Hsin-Ju Lee, Yen-Cheng Shih, Chien-Chen Chou, Chien Chen, David Niddam, Hsiang-Yu Yu, Fa-Hsuan Lin, Wen-Jui Kuo,  [_Epilepsia_ (2025), doi: 10.1111/epi.18685 ](https://onlinelibrary.wiley.com/doi/10.1111/epi.18685?af=R)"
 
-102\. "The network-based underpinnings of persisting symptoms after concussion: A multimodal neuroimaging meta-analysis", Adriano Mollica, Robin F. H. Cash, Carl Froilan D. Leochico,Peter Giacobbe, Isabella J. Sewell, Andrew Zalesky, Jennifer S. Rabin, Maged Goubran, Simon J. Graham, Benjamin Davidson, Fa-Hsuan Lin, Nir Lipsman, Clement Hamani, Matthew J. Burke, Sean M. Nestor, [_Nature Mental Health_ (2025), in press ]()
+102\. "The network-based underpinnings of persisting symptoms after concussion: A multimodal neuroimaging meta-analysis", Adriano Mollica, Robin F. H. Cash, Carl Froilan D. Leochico,Peter Giacobbe, Isabella J. Sewell, Andrew Zalesky, Jennifer S. Rabin, Maged Goubran, Simon J. Graham, Benjamin Davidson, Fa-Hsuan Lin, Nir Lipsman, Clement Hamani, Matthew J. Burke, Sean M. Nestor, [_Nature Mental Health_ (2025), Vol. 3, 1276–1290. doi: 10.1038/s44220-025-00503-6](https://www.nature.com/articles/s44220-025-00503-6)
 
 101\. "Evaluation of focused ultrasound modulation of the blood-brain barrier in gray and white matter", Alessandro De Maio, Yuexi Huang, Fa-Hsuan Lin, Bojana Stefanovic, Greg J. Stanisz, Meaghan A. O'Reilly, [_Journal of Controlled Release_ (2025), Vol. 381 (10), 113631, doi: 10.1016/j.jconrel.2025.113631 ](https://www.sciencedirect.com/science/article/pii/S0168365925002500)
 
