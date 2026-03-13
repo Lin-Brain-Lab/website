@@ -17,6 +17,9 @@ Our tools are accessible online at <Icon icon="carbon:logo-github" class="inline
 * [Generalized MRI reconstruction](https://github.com/fahsuanlin/fhlin_toolbox/wiki/MRI:-generalized-iterative-reconstruction)
 * [EEG source modeling with realistic anatomy](https://github.com/fahsuanlin/fhlin_toolbox/wiki/EEG:-souce-modeling)
 * [SEEG electrode registeration to MRI](https://github.com/fahsuanlin/fhlin_toolbox/wiki/SEEG:-register-electrodes-to-MRI)
+* [coil calculator](https://linbrainlab.org/tools/coil_calculator.html)
+
+
 
 
 [The wiki page](https://github.com/fahsuanlin/labmanual/wiki) of our lab includes a list of procedures for various neuroimaging experimental setup, data processing, and sample data.

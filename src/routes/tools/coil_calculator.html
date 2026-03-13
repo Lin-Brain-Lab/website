@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>3T MRI Matching Network Calculator</title>
+		<style>
+			body {
+				font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+					sans-serif;
+				background-color: #1e1e1e;
+				color: #f0f0f0;
+				margin: 0;
+				padding: 20px;
+				display: flex;
+				justify-content: center;
+			}
+			.container {
+				max-width: 800px;
+				width: 100%;
+				background-color: #2d2d2d;
+				padding: 30px;
+				border-radius: 10px;
+				box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+			}
+			h2 {
+				margin-top: 0;
+				border-bottom: 2px solid #444;
+				padding-bottom: 10px;
+			}
+			.input-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+				gap: 20px;
+				margin-bottom: 30px;
+			}
+			.input-group {
+				display: flex;
+				flex-direction: column;
+			}
+			label {
+				font-size: 0.9em;
+				margin-bottom: 5px;
+				color: #aaa;
+			}
+			input {
+				padding: 10px;
+				border-radius: 5px;
+				border: 1px solid #555;
+				background-color: #1a1a1a;
+				color: #00ffcc;
+				font-size: 1.1em;
+				font-family: monospace;
+			}
+			.svg-container {
+				background-color: #1a1a1a;
+				border-radius: 8px;
+				padding: 20px;
+				border: 1px solid #444;
+				overflow-x: auto;
+			}
+			.results {
+				margin-top: 20px;
+				padding: 15px;
+				background-color: #1a1a1a;
+				border-radius: 8px;
+				font-family: monospace;
+				color: #00ffcc;
+				border: 1px solid #444;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<h2>3T MRI Preamplifier Decoupling Calculator</h2>
+
+			<div class="input-grid">
+				<div class="input-group">
+					<label>Bare Series R (A, Ohms)</label>
+					<input type="number" id="valA" value="2.5" step="0.1" oninput="calculate()" />
+				</div>
+				<div class="input-group">
+					<label>Bare Series X (B, Ohms)</label>
+					<input type="number" id="valB" value="150" step="1" oninput="calculate()" />
+				</div>
+				<div class="input-group">
+					<label>IPEX Cable Length (L, m)</label>
+					<input type="number" id="valL" value="0.5" step="0.01" oninput="calculate()" />
+				</div>
+			</div>
+
+			<div class="results" id="text-results">
+				Ideal Cable (L0): 58.62 cm | Target f: 123.2 MHz
+			</div>
+
+			<div class="svg-container">
+				<svg
+					width="100%"
+					height="300"
+					viewBox="0 0 700 300"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path d="M 50 100 L 200 100" stroke="#00ffcc" stroke-width="3" fill="none" />
+					<path d="M 280 100 L 420 100" stroke="#00ffcc" stroke-width="3" fill="none" />
+					<path d="M 500 100 L 650 100" stroke="#00ffcc" stroke-width="3" fill="none" />
+					<path d="M 350 100 L 350 170" stroke="#00ffcc" stroke-width="3" fill="none" />
+					<path d="M 350 210 L 350 250" stroke="#00ffcc" stroke-width="3" fill="none" />
+
+					<path d="M 50 250 L 650 250" stroke="#888" stroke-width="3" fill="none" />
+					<path
+						d="M 330 250 L 370 250 M 340 260 L 360 260 M 345 270 L 355 270"
+						stroke="#888"
+						stroke-width="2"
+						fill="none"
+					/>
+
+					<circle cx="50" cy="100" r="6" fill="#00ffcc" />
+					<circle cx="50" cy="250" r="6" fill="#888" />
+					<text x="10" y="105" fill="#fff" font-family="sans-serif" font-size="14">
+						Coil
+					</text>
+
+					<circle cx="650" cy="100" r="6" fill="#00ffcc" />
+					<circle cx="650" cy="250" r="6" fill="#888" />
+					<text x="660" y="105" fill="#fff" font-family="sans-serif" font-size="14">
+						Preamp
+					</text>
+
+					<g id="comp-left" transform="translate(200, 80)"></g>
+					<g id="comp-right" transform="translate(420, 80)"></g>
+					<g id="comp-shunt" transform="translate(330, 170)"></g>
+
+					<text
+						x="240"
+						y="70"
+						fill="#fff"
+						font-family="sans-serif"
+						font-size="16"
+						text-anchor="middle"
+						id="lbl-left"
+					>
+						Left
+					</text>
+					<text
+						x="460"
+						y="70"
+						fill="#fff"
+						font-family="sans-serif"
+						font-size="16"
+						text-anchor="middle"
+						id="lbl-right"
+					>
+						Right
+					</text>
+					<text
+						x="390"
+						y="200"
+						fill="#fff"
+						font-family="sans-serif"
+						font-size="16"
+						id="lbl-shunt"
+					>
+						Shunt
+					</text>
+				</svg>
+			</div>
+		</div>
+
+		<script>
+			const f = 123.2e6;
+			const w = 2 * Math.PI * f;
+			const lambda_c = (3e8 / f) * 0.69;
+			const L0 = 0.5862;
+
+			function drawCapacitor(svgGroup, horizontal) {
+				if (horizontal) {
+					svgGroup.innerHTML =
+						'<path d="M 0 20 L 35 20 M 45 20 L 80 20 M 35 5 L 35 35 M 45 5 L 45 35" stroke="#ff0066" stroke-width="3" fill="none"/>';
+				} else {
+					svgGroup.innerHTML =
+						'<path d="M 20 0 L 20 15 M 20 25 L 20 40 M 5 15 L 35 15 M 5 25 L 35 25" stroke="#ff0066" stroke-width="3" fill="none"/>';
+				}
+			}
+
+			function drawInductor(svgGroup, horizontal) {
+				if (horizontal) {
+					svgGroup.innerHTML =
+						'<path d="M 0 20 Q 10 0 20 20 T 40 20 T 60 20 T 80 20" stroke="#00ccff" stroke-width="3" fill="none"/>';
+				} else {
+					svgGroup.innerHTML =
+						'<path d="M 20 0 Q 40 10 20 20 T 20 40" stroke="#00ccff" stroke-width="3" fill="none"/>';
+				}
+			}
+
+			function calculate() {
+				const A = parseFloat(document.getElementById("valA").value) || 0.1;
+				const B = parseFloat(document.getElementById("valB").value) || 0;
+				const L = parseFloat(document.getElementById("valL").value) || 0;
+
+				// Stage 1: Quarter Wave
+				const X_qw = Math.sqrt(50 * A);
+				const X_left = X_qw - B;
+				const X_shunt1 = -X_qw;
+
+				// Stage 2: Phase Shift
+				const length_diff = L0 - L;
+				const theta_miss_rad = (length_diff / lambda_c) * 2 * Math.PI;
+				const X_series2 = 50 * Math.tan(theta_miss_rad / 2);
+				const X_shunt2 = -50 / Math.sin(theta_miss_rad);
+
+				// Stage 3: Wye-Delta Transform
+				const X_mid = X_qw + X_series2;
+				const X_sum = X_mid + X_shunt1 + X_shunt2;
+
+				const X_1n = (X_mid * X_shunt1) / X_sum;
+				const X_2n = (X_mid * X_shunt2) / X_sum;
+				const X_3n = (X_shunt1 * X_shunt2) / X_sum;
+
+				const final_left = X_left + X_1n;
+				const final_right = X_series2 + X_2n;
+				const final_shunt = X_3n;
+
+				// Update UI
+				updateComponent("comp-left", "lbl-left", final_left, true);
+				updateComponent("comp-right", "lbl-right", final_right, true);
+				updateComponent("comp-shunt", "lbl-shunt", final_shunt, false);
+			}
+
+			function updateComponent(groupId, labelId, X, isHorizontal) {
+				const group = document.getElementById(groupId);
+				const label = document.getElementById(labelId);
+
+				if (X > 0) {
+					drawInductor(group, isHorizontal);
+					const val = ((X / w) * 1e9).toFixed(2);
+					label.textContent = val + " nH";
+					label.setAttribute("fill", "#00ccff");
+				} else {
+					drawCapacitor(group, isHorizontal);
+					const val = ((1 / (Math.abs(X) * w)) * 1e12).toFixed(2);
+					label.textContent = val + " pF";
+					label.setAttribute("fill", "#ff0066");
+				}
+			}
+
+			// Run once on load
+			window.onload = calculate;
+		</script>
+	</body>
+</html>
